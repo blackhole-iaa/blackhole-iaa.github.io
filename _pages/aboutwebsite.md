@@ -40,11 +40,6 @@ As said, [Jekyll](https://jekyllrb.com) takes all the markdown and data files, a
 
 ### Copyright / credit
 
-You can use this template as you please. You don't have to link to us or mention us (but of course we appreciate it). We also welcome it if you send us an email with a link to your website, perhaps we'll publish a list here at some point. 
-
-Comments welcome.
-
-Code released under the MIT License. 
-
+Black Hole Group
 
 
