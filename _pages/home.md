@@ -8,9 +8,10 @@ permalink: /
 
 Our research group is focused on the study of black hole accretion and relativistic jet formation through very long baseline interferometric observations (VLBI) with mm-wave arrays, such as the Event Horizon Telescope (EHT), orbiting antennas, such as the space VLBI mission RadioAstron, and long-term monitoring programs such as MOJAVE and VLBA-BU-BLAZAR. (see [Research](research)).
 
-
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<!--
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >-->
     <!-- Menu -->
+    <!--
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
@@ -20,8 +21,10 @@ Our research group is focused on the study of black hole accretion and relativis
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
-
+    -->
+    
     <!-- Items -->
+<!--
 <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
@@ -51,7 +54,7 @@ Our research group is focused on the study of black hole accretion and relativis
     <span class="sr-only">Next</span>
   </a>
 </div>
-
+-->
 
 <!--
 We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
