@@ -8,6 +8,8 @@ permalink: /research/
 
 # Research
 
+Our research group is focused on the study of black hole accretion and relativistic jet formation through very long baseline interferometric observations (VLBI) with mm-wave arrays, such as the Event Horizon Telescope (EHT), orbiting antennas, such as the space VLBI mission RadioAstron, and long-term monitoring programs such as MOJAVE and VLBA-BU-BLAZAR. (see [Research](research)).
+
 <!--
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 -->
