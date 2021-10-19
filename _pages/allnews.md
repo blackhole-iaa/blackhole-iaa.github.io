@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Black Hole Group at IAA."
 sitemap: false
 permalink: /allnews.html
 ---
