@@ -6,10 +6,58 @@
   education1: B.S. 1989  in Physics/Astrophysics, University of Barcelona
   education2: Ph.D. 1993 Instituto de Astrofísica de Andalucía / University of Granada
   
-- name: Teresa Toscano Domingo
+- name: Antonio Fuentes Fernández
+  photo: dummy.png
+  info: PhD student
+  email: afuentes@iaa.es
+  number_educ: 2
+  education1: B.S.   
+  education2: M.S. 
+  
+  - name: Guang-Yao Zhao
+  photo: dummy.png
+  info: Postdoctoral fellow
+  email: gyzhao@iaa.es
+  number_educ: 2
+  education1: B.S. 2019  in Physics, University of Córdoba
+  education2: M.S. 2021 in Physics and Mathematics, Instituto de Astrofísica de Andalucía / University of Granada
+  
+  - name: Rocco Lico
+  photo: dummy.png
+  info: Severo-Ochoa Postdoctoral fellow
+  email: rlico@iaa.es
+  number_educ: 2
+  education1: B.S. 
+  education2: M.S. 
+  
+  - name: Efthalia Traianou
+  photo: dummy.png
+  info: Postdoctoral fellow
+  email: traianou@iaa.es
+  number_educ: 2
+  education1: B.S. 
+  education2: M.S. 
+  
+  - name: Ilje Cho
+  photo: dummy.png
+  info:  Postdoctoral fellow
+  email: icho@iaa.es
+  number_educ: 2
+  education1: B.S. 
+  education2: M.S. 
+  
+  - name: Teresa Toscano Domingo
   photo: dummy.png
   info: PhD student
   email: ttoscano@iaa.es
   number_educ: 2
   education1: B.S. 2019  in Physics, University of Córdoba
   education2: M.S. 2021 in Physics and Mathematics, Instituto de Astrofísica de Andalucía / University of Granada
+  
+  - name: Rohan Dahale
+  photo: dummy.png
+  info: JAE Intro Student
+  email: rdahale@iaa.es
+  number_educ: 2
+  education1: BS-MS Physics, Indian Institute of Science Education and Research Kolkata (2017-present)
+  education2: Master Thesis, Instituto de Astrofísica de Andalucía (present)
