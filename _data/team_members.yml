@@ -15,36 +15,37 @@
   education2: M.S. 
   
 - name: Guang-Yao Zhao
-  photo: dummy.png
+  photo: 20201210_2204007.png
   info: Postdoctoral fellow
   email: gyzhao@iaa.es
   number_educ: 2
-  education1: B.S. 
-  education2: M.S. 
+  education1: Bachelor in Applied Physics at Shandong University at Weihai (2007)
+  education2: PhD in Astrophysics at University of Chinese Academy of Sciences (2013)
   
 - name: Rocco Lico
-  photo: dummy.png
+  photo: Rocco_Lico_pic.png
   info: Severo-Ochoa Postdoctoral fellow
   email: rlico@iaa.es
   number_educ: 2
-  education1: B.S. 
-  education2: M.S. 
+  education1: Master’s degree in Astrophysics and Cosmology at University of Bologna (2012)    
+  education2: PhD in Astrophysics at University of Bologna and Istituto nazionale di Astrofisica IRA-INAF (2015)
   
 - name: Efthalia Traianou
-  photo: dummy.png
+  photo: traianou_thalia.png
   info: Postdoctoral fellow
   email: traianou@iaa.es
   number_educ: 2
-  education1: B.S. 
-  education2: M.S. 
+  education1: Master/Bachelor’s degree in Physics (Stream of Astronomy and Celestial Mechanics) at Aristotle University of Thessaloniki, Greece (25 November 2016).
+  education2: PhD in Extragalactic Astrophysics (Dr. rer. nat) at University of Cologne and Max-Planck-Institut für Radioastronomie, Bonn, Germany  (9 June 2020).
+
   
 - name: Ilje Cho
-  photo: dummy.png
+  photo: profile.png
   info:  Postdoctoral fellow
   email: icho@iaa.es
   number_educ: 2
-  education1: B.S. 
-  education2: M.S. 
+  education1: Bachelor in Dep. of Astronomy & Atmospheric Science in Kyungpook National University (2014)
+  education2: Master & PhD integrated course in University of Science and Technology (UST) / Korea Astronomy and Space science Institute (KASI) (2021)
   
 - name: Teresa Toscano Domingo
   photo: dummy.png
