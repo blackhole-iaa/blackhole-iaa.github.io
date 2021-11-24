@@ -3,7 +3,7 @@ title: "Members"
 layout: gridlay
 excerpt: "Group Members"
 sitemap: false
-permalink: /members/
+permalink: /team/
 ---
 
 
