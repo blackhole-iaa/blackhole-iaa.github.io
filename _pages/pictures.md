@@ -25,7 +25,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-<div class="col-sm-1 clearfix">
+<div class="col-sm-15 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="150%" style="float: left" />
 </div>
 {% assign number_printed = number_printed | plus: 1 %}
