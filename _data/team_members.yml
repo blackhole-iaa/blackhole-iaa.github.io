@@ -3,14 +3,14 @@
   info: Research Scientist / Group Leader
   email: jlgmoez@iaa.es
   number_educ: 1
-  education1: Research
+  education1: Research:
 
 - name: Antonio Fuentes Fernández
   photo: Fuentes_Antonio.png
   info: PhD student
   email: afuentes@iaa.es
   number_educ: 2
-  education1: Joined
+  education1: Joined in 
   education2: Research
 
 - name: Guang-Yao Zhao
@@ -18,7 +18,7 @@
   info: Postdoctoral fellow
   email: gyzhao@iaa.es
   number_educ: 2
-  education1: Joined December 2019
+  education1: Joined in December 2019
   education2: Research
 
 - name: Rocco Lico
@@ -26,7 +26,7 @@
   info: Severo-Ochoa Postdoctoral fellow
   email: rlico@iaa.es
   number_educ: 2
-  education1: Joined July 2020
+  education1: Joined in July 2020
   education2: Research
   
 - name: Efthalia Traianou
@@ -34,7 +34,7 @@
   info: Postdoctoral fellow
   email: traianou@iaa.es
   number_educ: 2
-  education1: Joined May 2021
+  education1: Joined in May 2021
   education2: Research
   
 - name: Ilje Cho
@@ -42,7 +42,7 @@
   info:  Postdoctoral fellow
   email: icho@iaa.es
   number_educ: 2
-  education1: Joined June 2021
+  education1: Joined in June 2021
   education2: Research
 
 - name: Teresa Toscano Domingo
@@ -50,7 +50,7 @@
   info: PhD student
   email: ttoscano@iaa.es
   number_educ: 2
-  education1: Joined September 2021
+  education1: Joined in September 2021
   education2: Research
   
 - name: Rohan Dahale
@@ -58,5 +58,5 @@
   info: JAE Intro Student
   email: rdahale@iaa.es
   number_educ: 2
-  education1: Joined October 2021
+  education1: Joined in October 2021
   education2: Research 
