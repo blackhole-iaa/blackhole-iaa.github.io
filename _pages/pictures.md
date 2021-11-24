@@ -16,8 +16,8 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
 -->
 
-<!--
-#### Gallery
+
+# Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_Leiden %}
@@ -48,7 +48,7 @@ First advertisement.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
 </figure>
--->
+
 
 <!--
 ## ETHZ
