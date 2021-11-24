@@ -1,42 +1,40 @@
 - name: Dr. José Luis Gómez
   photo: Jose.png
-  info: Research Scientist 
+  info: Research Scientist / Group Leader
   email: jlgmoez@iaa.es
-  number_educ: 2
-  education1: B.S. 1989  in Physics/Astrophysics, University of Barcelona
-  education2: Ph.D. 1993 Instituto de Astrofísica de Andalucía / University of Granada
-  
+  number_educ: 0
+
 - name: Antonio Fuentes Fernández
   photo: Fuentes_Antonio.png
   info: PhD student
   email: afuentes@iaa.es
   number_educ: 2
-  education1: B.S.   
-  education2: M.S. 
+  education1: Joined: 
+  education2: Research: 
   
 - name: Guang-Yao Zhao
   photo: 20201210_204007.jpg
   info: Postdoctoral fellow
   email: gyzhao@iaa.es
   number_educ: 2
-  education1: Bachelor in Applied Physics at Shandong University at Weihai (2007)
-  education2: PhD in Astrophysics at University of Chinese Academy of Sciences (2013)
+  education1: Joined: December 2019
+  education2: Research: 
   
 - name: Rocco Lico
   photo: Rocco_Lico_pic.jpeg
   info: Severo-Ochoa Postdoctoral fellow
   email: rlico@iaa.es
   number_educ: 2
-  education1: Master’s degree in Astrophysics and Cosmology at University of Bologna (2012)    
-  education2: PhD in Astrophysics at University of Bologna and Istituto nazionale di Astrofisica IRA-INAF (2015)
+  education1: Joined: July 2020
+  education2: Research: 
   
 - name: Efthalia Traianou
   photo: traianou_thalia.jpg
   info: Postdoctoral fellow
   email: traianou@iaa.es
   number_educ: 2
-  education1: Master/Bachelor’s degree in Physics (Stream of Astronomy and Celestial Mechanics) at Aristotle University of Thessaloniki, Greece (2016).
-  education2: PhD in Extragalactic Astrophysics (Dr. rer. nat) at University of Cologne and Max-Planck-Institut für Radioastronomie, Bonn, Germany  (2020).
+  education1: Joined: May 2021
+  education2: Research: 
 
   
 - name: Ilje Cho
@@ -44,21 +42,21 @@
   info:  Postdoctoral fellow
   email: icho@iaa.es
   number_educ: 2
-  education1: Bachelor in Dep. of Astronomy & Atmospheric Science in Kyungpook National University (2014)
-  education2: Master & PhD integrated course in University of Science and Technology (UST) / Korea Astronomy and Space science Institute (KASI) (2021)
+  education1: Joined: June 2021
+  education2: Research: 
   
 - name: Teresa Toscano Domingo
   photo: teresa.jpeg
   info: PhD student
   email: ttoscano@iaa.es
   number_educ: 2
-  education1: B.S. in Physics, University of Córdoba (2019)
-  education2: M.S. in Physics and Mathematics, Instituto de Astrofísica de Andalucía / University of Granada (2021)
+  education1: Joined: September 2021
+  education2: Research: 
   
 - name: Rohan Dahale
   photo: rohan.jpeg
   info: JAE Intro Student
   email: rdahale@iaa.es
   number_educ: 2
-  education1: BS-MS Physics, Indian Institute of Science Education and Research Kolkata (2017-present)
-  education2: Master Thesis, Instituto de Astrofísica de Andalucía (present)
+  education1: Joined: October 2021
+  education2: Research: 
