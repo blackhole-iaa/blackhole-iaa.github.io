@@ -9,54 +9,48 @@
   photo: Fuentes_Antonio.png
   info: PhD student
   email: afuentes@iaa.es
-  number_educ: 2
-  education1: Joined
-  education2: Research
+  number_educ: 1
+  education1: Joined in August 2018
 
 - name: Guang-Yao Zhao
   photo: 20201210_204007.jpg
   info: Postdoctoral fellow
   email: gyzhao@iaa.es
-  number_educ: 2
-  education1: Joined December 2019
-  education2: Research
+  number_educ: 1
+  education1: Joined in December 2019
 
 - name: Rocco Lico
   photo: Rocco_Lico_pic.jpeg
   info: Severo-Ochoa Postdoctoral fellow
   email: rlico@iaa.es
-  number_educ: 2
-  education1: Joined July 2020
-  education2: Research
-  
+  number_educ: 1
+  education1: Joined in July 2020
+
+ 
 - name: Efthalia Traianou
   photo: traianou_thalia.jpg
   info: Postdoctoral fellow
   email: traianou@iaa.es
-  number_educ: 2
-  education1: Joined May 2021
-  education2: Research
+  number_educ: 1
+  education1: Joined in May 2021
   
 - name: Ilje Cho
   photo: profile.JPG
   info:  Postdoctoral fellow
   email: icho@iaa.es
-  number_educ: 2
-  education1: Joined June 2021
-  education2: Research
+  number_educ: 1
+  education1: Joined in June 2021
 
 - name: Teresa Toscano Domingo
   photo: teresa.jpeg
   info: PhD student
   email: ttoscano@iaa.es
-  number_educ: 2
-  education1: Joined September 2021
-  education2: Research
+  number_educ: 1
+  education1: Joined in September 2021
   
-  - name: Rohan Dahale
+- name: Rohan Dahale
   photo: rohan.jpeg
-  info: JAE Intro Student
+  info: Master Student
   email: rdahale@iaa.es
-  number_educ: 2
-  education1: Joined October 2021
-  education2: Research 
+  number_educ: 1
+  education1: Joined in October 2021
