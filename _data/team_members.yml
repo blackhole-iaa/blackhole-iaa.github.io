@@ -5,6 +5,13 @@
   number_educ: 1
   education1: Research
 
+- name: Dr. Anxton Alberdi
+  photo: antxon.jpeg
+  info: Director at IAA
+  email: antxon@iaa.es
+  number_educ: 1
+  education1: Research
+
 - name: Antonio Fuentes Fernández
   photo: Fuentes_Antonio.png
   info: PhD student
