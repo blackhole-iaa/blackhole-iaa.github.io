@@ -1,7 +1,7 @@
 ---
-title: "Black Hole Group"
+title: "VLBI Group"
 layout: homelay
-excerpt: "Black Hole Group at IAA."
+excerpt: "VLBI at IAA."
 sitemap: false
 permalink: /
 ---
