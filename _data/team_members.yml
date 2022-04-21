@@ -3,14 +3,14 @@
   info: Research Scientist / Group Leader
   email: jlgomez@iaa.es
   number_educ: 1
-  education1: Research
+  education1: 
 
 - name: Dr. Antonio María Alberdi
   photo: AAlberdi.png
   info: Director at IAA
   email: antxon@iaa.es
   number_educ: 1
-  education1: Research
+  education1: 
 
 - name: Antonio Fuentes
   photo: Fuentes_Antonio.png
@@ -28,7 +28,7 @@
 
 - name: Dr. Rocco Lico
   photo: Rocco_Lico_pic.jpeg
-  info: Severo-Ochoa Postdoctoral fellow
+  info: Postdoctoral fellow
   email: rlico@iaa.es
   number_educ: 1
   education1: Joined in July 2020
