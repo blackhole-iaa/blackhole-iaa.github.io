@@ -8,12 +8,12 @@ permalink: /
 
 <p align="justify">
 
-Our research group at IAA is focused on the study of black hole accretion and relativistic jet formation through very long baseline interferometric  (VLBI) observations with mm-wave arrays, such as the Event Horizon Telescope (EHT), and orbiting antennas, such as the space VLBI mission RadioAstron. In particular our research group is playing a key role in the scientific exploitation of the Event Horizon Telescope (EHT).
+Our research group is focused on the study of black hole accretion and relativistic jet formation through very long baseline interferometric  (VLBI) observations with mm-wave arrays, such as the Event Horizon Telescope (EHT), and orbiting antennas, such as the space VLBI mission RadioAstron. In particular our research group is playing a key role in the scientific exploitation of the Event Horizon Telescope (EHT).
 </p>
 
 
 <p align="justify">
-Our activity is based on the Instituto de Astrofísica de Andalucía (IAA-CSIC), in Granada, Spain, currently an EHT affiliated institution, one of the most important investigation centers of the country also distinguished with the “Severo Ochoa Center of Excellence Award”.
+Our group is part of the Instituto de Astrofísica de Andalucía (IAA-CSIC), in Granada, Spain, currently an EHT affiliated institution, one of the most important investigation centers of the country also distinguished with the “Severo Ochoa Center of Excellence Award”.
 </p>
 
 <p align="justify">
@@ -24,6 +24,7 @@ Our group is composed of:
  <li> Posdocs: Guang-Yao Zhao, Rocco Lico, Thalia Traianou and Ilje Cho. 
  <li> PhD students: Antonio Fuentes and Teresa Toscano.
  <li> New members: Rohan Dahale and Marianna Foschi.
+ </ul>
 </p>
 
 <br>
