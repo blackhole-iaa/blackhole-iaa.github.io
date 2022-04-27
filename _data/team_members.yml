@@ -10,7 +10,7 @@
   photo: AAlberdi.png
   info: Director at IAA
   email: antxon@iaa.es
-  publications:
+  publications: https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&format=SHORT&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=(database%3A%22astronomy%22)&fq_property=(property%3A(%22refereed%22))&q=%3Dauthor%3A(%22gomez%2C%20j%20l%22%20OR%20%22gomez%2C%20jose%20l%22%20OR%20%22gomez%2C%20jose%20luis%22)&sort=score%20desc%2C%20bibcode%20desc&unprocessed_parameter=adsobj_query&unprocessed_parameter=qform&p_=0
   number_educ: 1
   education1: 
 
