@@ -5,8 +5,8 @@
   date: 27 April 2022 
   journal: Accepted in The Astrophysical Journal 
   link:
-    url: 
-    display: 
+    url: https://iopscience.iop.org/article/10.3847/1538-4357/ac4165
+    display: DOI- 10.3847/1538-4357/ac4165
   highlight: 0
   news2: 
 
@@ -33,7 +33,6 @@
     display: DOI- 10.1051/0004-6361/202142948
   highlight: 0
   news2: 
-
 
 - title: "Probing the Innermost Regions of AGN Jets and Their Magnetic Fields with RadioAstron. V. Space and Ground Millimeter-VLBI Imaging of OJ 287"
   image: pol.png
