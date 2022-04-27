@@ -12,11 +12,11 @@ Our research group at IAA is focused on the study of black hole accretion and re
 </p>
 
 
-<p>
+<p align="justify">
 Our activity is based on the Instituto de Astrofísica de Andalucía (IAA-CSIC), in Granada, Spain, currently an EHT affiliated institution, one of the most important investigation centers of the country also distinguished with the “Severo Ochoa Center of Excellence Award”.
 </p>
 
-<p>
+<p align="justify">
 Our group is composed of: José Luis Gómez and Antxon Alberdi as staff members, Guang-Yao Zhao, Rocco Lico, Thalia Traianou, and Ilje Cho as postdocs and Antonio Fuentes and Teresa Toscano as PhD students. Soon, Rohan Dahale and Marianna Foschi will officially join our team.
 </p>
 
@@ -28,7 +28,7 @@ Our group is composed of: José Luis Gómez and Antxon Alberdi as staff members,
 
 <br>
 
-<p>
+<p align="justify">
 Nowadays, our research group has become one of the most relevant in the EHT, and is playing a key role in the analysis of the EHT observations of SgrA*, the supermassive black hole at the center of the Milky Way, for which the entire scientific community  has big expectations and whose results will be published soon.
 </p>
 
