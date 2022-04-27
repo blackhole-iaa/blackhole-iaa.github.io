@@ -14,7 +14,7 @@ The general research interests of our group lay in an ample variety of subjects,
 For instance, our group is actively a part of different collaborations, such as the Event Horizon Telescope (EHT), working with orbiting antennas, such as the space VLBI mission RadioAstron, and also with long-term monitoring programs such as MOJAVE and VLBA-BU-BLAZAR.
 </p>
 
-## EHT collaboration
+#### EHT collaboration
 
 <p align="justify">
 On April 10th 2019 the Event Horizon Telescope (EHT) Collaboration revealed the first image of a black hole, which shows an asymmetric bright emission ring that encompasses a central depression in brightness, known as the “shadow” of the black hole, produced by the photon capture within the event horizon of the black hole. Overall, the size, circularity, asymmetry, and brightness contrast of the observed image are consistent with the shadow of a Kerr black hole as predicted by GR and provide one the strongest evidence to date of the existence of supermassive black holes in the nuclei of galaxies. With this image the EHT has opened a completely new window to study gravity, bringing into focus not only the persistent strong-field gravity features predicted by general relativity, but also the fine details of black hole accretion and relativistic jet launching.
@@ -22,17 +22,15 @@ On April 10th 2019 the Event Horizon Telescope (EHT) Collaboration revealed the 
 
 <p align="justify">
 The Event Horizon Telescope has been awarded with the 2020 Breakthrough Prize in Fundamental Physics for obtaining “the first image of a supermassive black hole, taken by means of an Earth-sized alliance of telescopes.”
-
-
-<p align="justify">
 The EHT is an international collaboration capturing images of black holes using a virtual Earth-sized telescope (https://eventhorizontelescope.org/). Within the contribution to the EHT, our group is mostly focussed on science data analysis of the EHT, with key contributions to the Imaging, Calibration, Scattering, Polarization, AGN, and MWL WGs. Related to this, we have participated in several important studies of M87* and Sgr A*.
 </p>
 
 
 <ul>
- <li>Dr. José Luis Gómez: Group leader, member of the EHT Science Council and one of the three coordinators of the EHT Imaging Working Group (WG),PI of the RadioAstron Key Science Program to study jet formation in AGN jets.</li>
+ <li><p align="justify">
+Dr. José Luis Gómez: Group leader, member of the EHT Science Council and one of the three coordinators of the EHT Imaging Working Group (WG),PI of the RadioAstron Key Science Program to study jet formation in AGN jets.</li>
  
- <li>Dr. Guang-Yao Zhao: Coordinator of the Scattering WG, co-leader of the SMILI Imaging Team of the Imaging WG. Active member of the WGs of C&E, MWL and AGN.</li>
+ <li>Dr. Guang-Yao Zhao: Coordinator of the Scattering WG, co-leader of the SMILI Imaging Team. Active member of the WGs of C&E, MWL and AGN.</li>
 
  <li>Dr. Rocco Lico: Co-leader of the antenna gains team. Active in the Imaging, Polarimetry, AGN and outreach working groups. ICT Officer & Management Team secretary.</li>
 
@@ -51,7 +49,7 @@ Recently, our group has welcomed two new students, soon to become an official pa
 </p>
 
 <p align="justify">
-Another project our group is involved in is RadioAstron (http://www.asc.rssi.ru/radioastron/), an international space VLBI project led by the Astro Space Center of Lebedev Physical Institute in Moscow, Russia. Within this project we have studied the sources 3C279 and OJ287
+Another project our group is involved in is RadioAstron (http://www.asc.rssi.ru/radioastron/), an international space VLBI project led by the Astro Space Center of Lebedev Physical Institute in Moscow, Russia. Within this project we have studied the sources 3C279 and OJ287.
 </p>
 
 <p align="justify">
