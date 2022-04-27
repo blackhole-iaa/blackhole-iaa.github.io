@@ -2,7 +2,7 @@
   photo: Jose.png
   info: Research Scientist / Group Leader
   email: jlgomez@iaa.es
-  publications: test_publications
+  publications: https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&format=SHORT&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=(database%3A%22astronomy%22)&fq_property=(property%3A(%22refereed%22))&q=%3Dauthor%3A(%22gomez%2C%20j%20l%22%20OR%20%22gomez%2C%20jose%20l%22%20OR%20%22gomez%2C%20jose%20luis%22)&sort=score%20desc%2C%20bibcode%20desc&unprocessed_parameter=adsobj_query&unprocessed_parameter=qform&p_=0
   number_educ: 1
   education1: 
 
@@ -10,7 +10,7 @@
   photo: AAlberdi.png
   info: Director at IAA
   email: antxon@iaa.es
-  publications: https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&filter_property_fq_property=AND&filter_property_fq_property=property%3A%22refereed%22&format=SHORT&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&fq_database=(database%3A%22astronomy%22)&fq_property=(property%3A(%22refereed%22))&q=%3Dauthor%3A(%22gomez%2C%20j%20l%22%20OR%20%22gomez%2C%20jose%20l%22%20OR%20%22gomez%2C%20jose%20luis%22)&sort=score%20desc%2C%20bibcode%20desc&unprocessed_parameter=adsobj_query&unprocessed_parameter=qform&p_=0
+  publications: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FAlberdi%2C%20A%2FAlberdi%2C%20A%22%20OR%20author_facet_hier%3A%221%2FAlberdi%2C%20A%2FAlberdi%2C%20Antxon%22%20OR%20author_facet_hier%3A%221%2FAlberdi%2C%20A%2FAlberdi%2C%20Antonio%22)&p_=0&q=author%3A%22Antonio%20Mar%C3%ADa%20Alberdi%22&sort=date%20desc%2C%20bibcode%20desc
   number_educ: 1
   education1: 
 
@@ -18,7 +18,7 @@
   photo: 20201210_204007.jpg
   info: Postdoctoral fellow
   email: gyzhao@iaa.es
-  publications:
+  publications: https://orcid.org/0000-0002-4417-1659
   number_educ: 1
   education1: Joined in December 2019
 
@@ -26,7 +26,7 @@
   photo: Rocco_Lico_pic.jpeg
   info: Postdoctoral fellow
   email: rlico@iaa.es
-  publications:
+  publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FLico%2C%20R%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FLico%2C%20R%22)&q=rocco%20lico&sort=date%20desc%2C%20bibcode%20desc&p_=0
   number_educ: 1
   education1: Joined in July 2020
  
@@ -34,7 +34,7 @@
   photo: traianou_thalia.jpg
   info: Postdoctoral fellow
   email: traianou@iaa.es
-  publications:
+  publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FTraianou%2C%20E%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FTraianou%2C%20E%22)&q=Efthalia%20Traianou&sort=date%20desc%2C%20bibcode%20desc&p_=0
   number_educ: 1
   education1: Joined in May 2021
   
@@ -42,7 +42,7 @@
   photo: profile.JPG
   info:  Postdoctoral fellow
   email: icho@iaa.es
-  publications:
+  publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20I%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20Ilje%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20I%22%20OR%20author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20Ilje%22)&q=author%3A%22cho%2C%20ilje%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
   number_educ: 1
   education1: Joined in June 2021
 
@@ -50,7 +50,7 @@
   photo: Fuentes_Antonio.png
   info: PhD Student
   email: afuentes@iaa.es
-  publications:
+  publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20Antonio%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20A%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20Antonio%22%20OR%20author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20A%22)&q=antonio%20fuentes&sort=date%20desc%2C%20bibcode%20desc&p_=0
   number_educ: 1
   education1: Joined in August 2018
 
@@ -66,7 +66,7 @@
   photo: rohan.jpeg
   info: Master Student
   email: rdahale@iaa.es
-  publications:
+  publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FDahale%2C%20R%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FDahale%2C%20R%22)&q=%20author%3A%22dahale%2C%20rohan%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
   number_educ: 1
   education1: Joined in October 2021
   
