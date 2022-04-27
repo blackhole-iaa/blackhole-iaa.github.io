@@ -24,7 +24,7 @@ Our group is composed of:
  <li> Posdocs: Guang-Yao Zhao, Rocco Lico, Thalia Traianou and Ilje Cho. 
  <li> PhD students: Antonio Fuentes and Teresa Toscano.
  <li> New members: Rohan Dahale and Marianna Foschi.
- </ul>
+</ul>
 </p>
 
 <br>
