@@ -17,7 +17,7 @@ Referred publications in the NASA Astrophysics Data System (ADS) [here.](http://
 {% for publi in site.data.publist %}
 
  {{ publi.title }} <br />
- <span style="color:grey"> <em>{{ publi.date }}, {{ publi.journal }} </em><br /><a> </span>
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ <span style="color:grey"> <em>{{ publi.date }}, {{ publi.journal }} </em> </span> <br /> </a>
+  <em>{{ publi.authors }} </em><br /></a> <href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
