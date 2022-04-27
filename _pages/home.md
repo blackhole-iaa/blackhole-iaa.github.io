@@ -26,7 +26,7 @@ Our group is composed of: José Luis Gómez and Antxon Alberdi as staff members,
 <img src="{{ site.url }}{{ site.baseurl }}/images/home.png" class="img-responsive" width="150%" style="float: left" />
 </div>
 
-
+<br>
 
 <p>
 Nowadays, our research group has become one of the most relevant in the EHT, and is playing a key role in the analysis of the EHT observations of SgrA*, the supermassive black hole at the center of the Milky Way, for which the entire scientific community  has big expectations and whose results will be published soon.
