@@ -28,7 +28,7 @@ The Event Horizon Telescope has been awarded with the 2020 Breakthrough Prize in
 The EHT is an international collaboration capturing images of black holes using a virtual Earth-sized telescope (https://eventhorizontelescope.org/). Within the contribution to the EHT, our group is mostly focussed on science data analysis of the EHT, with key contributions to the Imaging, Calibration, Scattering, Polarization, AGN, and MWL WGs. Related to this, we have participated in several important studies of M87* and Sgr A*.
 </p>
 
-<p align="justify">
+
 <ul>
  <li>Dr. José Luis Gómez: Group leader, member of the EHT Science Council and one of the three coordinators of the EHT Imaging Working Group (WG),PI of the RadioAstron Key Science Program to study jet formation in AGN jets.</li>
  
@@ -44,7 +44,7 @@ The EHT is an international collaboration capturing images of black holes using 
 
  <li>Teresa Toscano: PhD student and latest collaborator of the EHT. Active member or the WG of Imaging, AGN and Polarimetry.</li>
 </ul> 
-</p>
+
 
 <p align="justify">
 Recently, our group has welcomed two new students, soon to become an official part of the team: Rohan Dahale and Marianna Foschi, who will soon be a part of the EHT group and continue to work on the ongoing and future projects.
