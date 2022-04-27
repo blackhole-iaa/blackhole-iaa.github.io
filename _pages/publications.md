@@ -13,6 +13,6 @@ permalink: /publications/
 
  {{ publi.title }} <br />
  <span style="color:grey"> <em>{{ publi.date }}, {{ publi.journal }} </em> </span> <br />
-  <em>{{ publi.authors }} </em><br/> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  <em>{{ publi.authors }} </em><br /> <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ 
 {% endfor %}
