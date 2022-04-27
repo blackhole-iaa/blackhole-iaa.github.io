@@ -17,8 +17,15 @@ Our activity is based on the Instituto de Astrofísica de Andalucía (IAA-CSIC),
 </p>
 
 <p align="justify">
-Our group is composed of: José Luis Gómez and Antxon Alberdi as staff members, Guang-Yao Zhao, Rocco Lico, Thalia Traianou, and Ilje Cho as postdocs and Antonio Fuentes and Teresa Toscano as PhD students. Soon, Rohan Dahale and Marianna Foschi will officially join our team.
+Our group is composed of:
+
+<ul>
+ <li>Staff members: José Luis Gómez and Antxon Alberdi
+ <li> Posdocs: Guang-Yao Zhao, Rocco Lico, Thalia Traianou and Ilje Cho. 
+ <li> PhD students: Antonio Fuentes and Teresa Toscano.
+ <li> New members: Rohan Dahale and Marianna Foschi.
 </p>
+
 <br>
 
 <div class="col-sm-15 clearfix">
