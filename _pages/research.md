@@ -16,19 +16,19 @@ For instance, our group is actively a part of different collaborations, such as 
 
 ## EHT collaboration
 
-<p>
+<p align="justify">
 On April 10th 2019 the Event Horizon Telescope (EHT) Collaboration revealed the first image of a black hole, which shows an asymmetric bright emission ring that encompasses a central depression in brightness, known as the “shadow” of the black hole, produced by the photon capture within the event horizon of the black hole. Overall, the size, circularity, asymmetry, and brightness contrast of the observed image are consistent with the shadow of a Kerr black hole as predicted by GR and provide one the strongest evidence to date of the existence of supermassive black holes in the nuclei of galaxies. With this image the EHT has opened a completely new window to study gravity, bringing into focus not only the persistent strong-field gravity features predicted by general relativity, but also the fine details of black hole accretion and relativistic jet launching.
 </p>
 
-<p>
+<p align="justify">
 The Event Horizon Telescope has been awarded with the 2020 Breakthrough Prize in Fundamental Physics for obtaining “the first image of a supermassive black hole, taken by means of an Earth-sized alliance of telescopes.”
 
 
-<p>
+<p align="justify">
 The EHT is an international collaboration capturing images of black holes using a virtual Earth-sized telescope (https://eventhorizontelescope.org/). Within the contribution to the EHT, our group is mostly focussed on science data analysis of the EHT, with key contributions to the Imaging, Calibration, Scattering, Polarization, AGN, and MWL WGs. Related to this, we have participated in several important studies of M87* and Sgr A*.
 </p>
 
-<p>
+<p align="justify">
 <ul>
  <li>Dr. José Luis Gómez: Group leader, member of the EHT Science Council and one of the three coordinators of the EHT Imaging Working Group (WG),PI of the RadioAstron Key Science Program to study jet formation in AGN jets.</li>
  
@@ -46,15 +46,15 @@ The EHT is an international collaboration capturing images of black holes using 
 </ul> 
 </p>
 
-<p>
+<p align="justify">
 Recently, our group has welcomed two new students, soon to become an official part of the team: Rohan Dahale and Marianna Foschi, who will soon be a part of the EHT group and continue to work on the ongoing and future projects.
 </p>
 
-<p>
+<p align="justify">
 Another project our group is involved in is RadioAstron (http://www.asc.rssi.ru/radioastron/), an international space VLBI project led by the Astro Space Center of Lebedev Physical Institute in Moscow, Russia. Within this project we have studied the sources 3C279 and OJ287
 </p>
 
-<p>
+<p align="justify">
 In addition to this, we are also involved in programs such as the MOJAVE  (Monitoring Of Jets in Active galactic nuclei with VLBA Experiments
 ) program (https://www.physics.purdue.edu/astro/MOJAVE/index.html), a long-term program to monitor radio brightness and polarization variations in jets associated with active galaxies visible in the northern sky, as well as the POLAMI program, a long-term program to monitor the polarimetric properties (Stokes I, Q, U, and V) of a sample of around 40 bright active galactic nuclei (AGN) at 3.5 and 1.3 millimeter wavelengths with the IRAM 30m Telescope near Granada, Spain.
 </p>
