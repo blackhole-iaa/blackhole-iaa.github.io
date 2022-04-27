@@ -32,7 +32,7 @@ The EHT is an international collaboration capturing images of black holes using 
 <ul>
  <li>Dr. José Luis Gómez: Group leader, member of the EHT Science Council and one of the three coordinators of the EHT Imaging Working Group (WG),PI of the RadioAstron Key Science Program to study jet formation in AGN jets.</li>
  
- <li>Dr. Guang-Yao Zhao: Coordinator of the Scattering WG, co-leader of the SMILI Imaging Team of the Imaging WG. Active member of the WGs of C&E, MWL and AGN.</li>
+ <li>Dr. Guang-Yao Zhao: Coordinator of the Scattering WG, co-leader of the SMILI Imaging Team. Active member of the WGs of C&E, MWL and AGN.</li>
 
  <li>Dr. Rocco Lico: Co-leader of the antenna gains team. Active in the Imaging, Polarimetry, AGN and outreach working groups. ICT Officer & Management Team secretary.</li>
 
