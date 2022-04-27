@@ -23,7 +23,6 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>
   Email: <{{ member.email }}></i> <br>
-  Publications: <{{ member.publications }}></i> <br>
   {% if member.number_educ == 1 %}
   {{ member.education1 }}
   {% endif %}
