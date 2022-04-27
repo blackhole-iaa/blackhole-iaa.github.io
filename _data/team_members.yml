@@ -14,14 +14,6 @@
   number_educ: 1
   education1: 
 
-- name: Antonio Fuentes
-  photo: Fuentes_Antonio.png
-  info: PhD Student
-  email: afuentes@iaa.es
-  publications:
-  number_educ: 1
-  education1: Joined in August 2018
-
 - name: Dr. Guang-Yao Zhao
   photo: 20201210_204007.jpg
   info: Postdoctoral fellow
@@ -53,6 +45,14 @@
   publications:
   number_educ: 1
   education1: Joined in June 2021
+
+- name: Antonio Fuentes
+  photo: Fuentes_Antonio.png
+  info: PhD Student
+  email: afuentes@iaa.es
+  publications:
+  number_educ: 1
+  education1: Joined in August 2018
 
 - name: Teresa Toscano
   photo: teresa.jpeg
