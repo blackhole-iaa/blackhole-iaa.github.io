@@ -10,6 +10,20 @@
   highlight: 0
   news2: 
 
+
+- title: "The Intrinsic Structure of Sagittarius A* at 1.3 cm and 7 mm"
+  image: pol.png
+  description: ""
+  authors: Cho I., Zhao G.-Y., et. al.
+  date: 20 February 2022 
+  journal: The Astrophysical Journal, Volume 926, Issue 2
+  link:
+    url: https://iopscience.iop.org/article/10.3847/1538-4357/ac4165
+    display: DOI- 10.3847/1538-4357/ac4165
+  highlight: 0
+  news2: 
+
+
 - title: "New jet feature in the parsec-scale jet of the blazar OJ 287 connected to the 2017 teraelectronvolt flaring activity"
   image: pol.png
   description: ""
