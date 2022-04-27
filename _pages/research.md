@@ -22,7 +22,7 @@ On April 10th 2019 the Event Horizon Telescope (EHT) Collaboration revealed the 
 
 <p align="justify">
 The Event Horizon Telescope has been awarded with the 2020 Breakthrough Prize in Fundamental Physics for obtaining “the first image of a supermassive black hole, taken by means of an Earth-sized alliance of telescopes.”
-
+</p>
 
 <p align="justify">
 The EHT is an international collaboration capturing images of black holes using a virtual Earth-sized telescope (https://eventhorizontelescope.org/). Within the contribution to the EHT, our group is mostly focussed on science data analysis of the EHT, with key contributions to the Imaging, Calibration, Scattering, Polarization, AGN, and MWL WGs. Related to this, we have participated in several important studies of M87* and Sgr A*.
@@ -30,7 +30,8 @@ The EHT is an international collaboration capturing images of black holes using 
 
 
 <ul>
- <li>Dr. José Luis Gómez: Group leader, member of the EHT Science Council and one of the three coordinators of the EHT Imaging Working Group (WG),PI of the RadioAstron Key Science Program to study jet formation in AGN jets.</li>
+ <li><p align="justify">
+Dr. José Luis Gómez: Group leader, member of the EHT Science Council and one of the three coordinators of the EHT Imaging Working Group (WG),PI of the RadioAstron Key Science Program to study jet formation in AGN jets.</li>
  
  <li>Dr. Guang-Yao Zhao: Coordinator of the Scattering WG, co-leader of the SMILI Imaging Team. Active member of the WGs of C&E, MWL and AGN.</li>
 
