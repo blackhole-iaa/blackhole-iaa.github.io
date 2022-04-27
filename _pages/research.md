@@ -49,7 +49,7 @@ Recently, our group has welcomed two new students, soon to become an official pa
 </p>
 
 <p align="justify">
-Another project our group is involved in is RadioAstron (http://www.asc.rssi.ru/radioastron/), an international space VLBI project led by the Astro Space Center of Lebedev Physical Institute in Moscow, Russia. Within this project we have studied the sources 3C279 and OJ287
+Another project our group is involved in is RadioAstron (http://www.asc.rssi.ru/radioastron/), an international space VLBI project led by the Astro Space Center of Lebedev Physical Institute in Moscow, Russia. Within this project we have studied the sources 3C279 and OJ287.
 </p>
 
 <p align="justify">
