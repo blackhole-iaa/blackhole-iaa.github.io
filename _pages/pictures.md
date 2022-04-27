@@ -1,7 +1,7 @@
 ---
-title: "Pictures"
+title: "Gallery"
 layout: piclay
-excerpt: "Pictures"
+excerpt: "Gallery"
 permalink: /pictures/
 ---
 
