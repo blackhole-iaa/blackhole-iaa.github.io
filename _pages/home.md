@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <p align="justify">
-<p>
+
 Our research group at IAA is focused on the study of black hole accretion and relativistic jet formation through very long baseline interferometric  (VLBI) observations with mm-wave arrays, such as the Event Horizon Telescope (EHT), and orbiting antennas, such as the space VLBI mission RadioAstron. In particular our research group is playing a key role in the scientific exploitation of the Event Horizon Telescope (EHT).
 </p>
 
