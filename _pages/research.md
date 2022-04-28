@@ -50,12 +50,11 @@ Recently, our group has welcomed two new students, soon to become an official pa
 </p>
 
 <p align="justify">
-Another project our group is involved in is RadioAstron (http://www.asc.rssi.ru/radioastron/), an international space VLBI project led by the Astro Space Center of Lebedev Physical Institute in Moscow, Russia. Within this project we have studied the sources 3C279 and OJ287.
+Another project our group is involved in is [RadioAstron](http://www.asc.rssi.ru/radioastron/), an international space VLBI project led by the Astro Space Center of Lebedev Physical Institute in Moscow, Russia. Within this project we have studied the sources 3C279 and OJ287.
 </p>
 
 <p align="justify">
-In addition to this, we are also involved in programs such as the MOJAVE  (Monitoring Of Jets in Active galactic nuclei with VLBA Experiments
-) program (https://www.physics.purdue.edu/astro/MOJAVE/index.html), a long-term program to monitor radio brightness and polarization variations in jets associated with active galaxies visible in the northern sky, as well as the POLAMI program, a long-term program to monitor the polarimetric properties (Stokes I, Q, U, and V) of a sample of around 40 bright active galactic nuclei (AGN) at 3.5 and 1.3 millimeter wavelengths with the IRAM 30m Telescope near Granada, Spain.
+In addition to this, we are also involved in programs such as the [MOJAVE](https://www.physics.purdue.edu/astro/MOJAVE/index.html) (Monitoring Of Jets in Active galactic nuclei with VLBA Experiments) program , a long-term program to monitor radio brightness and polarization variations in jets associated with active galaxies visible in the northern sky, as well as the POLAMI program, a long-term program to monitor the polarimetric properties (Stokes I, Q, U, and V) of a sample of around 40 bright active galactic nuclei (AGN) at 3.5 and 1.3 millimeter wavelengths with the IRAM 30m Telescope near Granada, Spain.
 </p>
 
 <!--
