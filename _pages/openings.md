@@ -1,9 +1,9 @@
 ---
 title: "Opportunities"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Open positions"
 sitemap: false
-permalink: /vacancies
+permalink: /opportunities
 ---
 
 # Open positions
