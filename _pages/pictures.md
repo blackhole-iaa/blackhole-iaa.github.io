@@ -19,7 +19,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 
 # Gallery
 {% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
+{% for pic in site.data.pictures %}
 {% assign even_odd = number_printed | modulo: 4 %}
 {% if even_odd == 0 %}
 <div class="row">
@@ -27,6 +27,9 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 <div class="col-sm-15 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="150%" style="float: left" />
 </div>
+<p>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.title }}/>
+</p>
 {% assign number_printed = number_printed | plus: 1 %}
 {% if even_odd > 2 %}
 </div>
