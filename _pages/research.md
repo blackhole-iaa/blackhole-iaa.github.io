@@ -17,17 +17,17 @@ For instance, our group is actively a part of different collaborations, such as 
 #### EHT collaboration
 
 <p align="justify">
-On April 10th 2019 the Event Horizon Telescope (EHT) Collaboration revealed the first image of a black hole, which shows an asymmetric bright emission ring that encompasses a central depression in brightness, known as the “shadow” of the black hole, produced by the photon capture within the event horizon of the black hole. Overall, the size, circularity, asymmetry, and brightness contrast of the observed image are consistent with the shadow of a Kerr black hole as predicted by GR and provide one the strongest evidence to date of the existence of supermassive black holes in the nuclei of galaxies. With this image the EHT has opened a completely new window to study gravity, bringing into focus not only the persistent strong-field gravity features predicted by general relativity, but also the fine details of black hole accretion and relativistic jet launching.
+On April 10th 2019 the [Event Horizon Telescope (EHT)](https://eventhorizontelescope.org/) Collaboration revealed the first image of a black hole, which shows an asymmetric bright emission ring that encompasses a central depression in brightness, known as the “shadow” of the black hole, produced by the photon capture within the event horizon of the black hole. Overall, the size, circularity, asymmetry, and brightness contrast of the observed image are consistent with the shadow of a Kerr black hole as predicted by GR and provide one the strongest evidence to date of the existence of supermassive black holes in the nuclei of galaxies. With this image the EHT has opened a completely new window to study gravity, bringing into focus not only the persistent strong-field gravity features predicted by general relativity, but also the fine details of black hole accretion and relativistic jet launching.
 </p>
 
 <p align="justify">
 The Event Horizon Telescope has been awarded with the 2020 Breakthrough Prize in Fundamental Physics for obtaining “the first image of a supermassive black hole, taken by means of an Earth-sized alliance of telescopes.”
-The EHT is an international collaboration capturing images of black holes using a virtual Earth-sized telescope (https://eventhorizontelescope.org/). Within the contribution to the EHT, our group is mostly focussed on science data analysis of the EHT, with key contributions to the Imaging, Calibration, Scattering, Polarization, AGN, and MWL WGs. Related to this, we have participated in several important studies of M87* and Sgr A*.
+The EHT is an international collaboration capturing images of black holes using a virtual Earth-sized telescope. Within the contribution to the EHT, our group is mostly focussed on science data analysis of the EHT, with key contributions to the Imaging, Calibration, Scattering, Polarization, AGN, and MWL WGs. Related to this, we have participated in several important studies of M87* and Sgr A*.
 </p>
 
 
 <ul>
- <li><p align="justify">
+ <p align="justify"> <li>
 Dr. José Luis Gómez: Group leader, member of the EHT Science Council and one of the three coordinators of the EHT Imaging Working Group (WG),PI of the RadioAstron Key Science Program to study jet formation in AGN jets.</li>
  
  <li>Dr. Guang-Yao Zhao: Coordinator of the Scattering WG, co-leader of the SMILI Imaging Team. Active member of the WGs of C&E, MWL and AGN.</li>
@@ -41,6 +41,7 @@ Dr. José Luis Gómez: Group leader, member of the EHT Science Council and one o
  <li>Antonio Fuentes: Core member of the Imaging WG, co-lead of the eht-imaging and dynamic imaging teams, and co-lead of the Imaging Surveys sub-WG.</li>
 
  <li>Teresa Toscano: PhD student and latest collaborator of the EHT. Active member or the WG of Imaging, AGN and Polarimetry.</li>
+</p>
 </ul> 
 
 
