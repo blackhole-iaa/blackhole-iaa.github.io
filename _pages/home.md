@@ -10,8 +10,9 @@ permalink: /
 <img src="{{ site.url }}{{ site.baseurl }}/images/home.jpg" class="img-responsive" width="150%" style="float: left" />
 </div>
 
-<p align="left">
-First polarized image of the black hole at the centre of the M87 galaxy. [March 2021]
+<p align="center">
+<em>
+First polarized image of the black hole at the centre of the M87 galaxy. [March 2021] </em>
 </p>
 
 <p align="justify">
