@@ -1,5 +1,5 @@
 - name: Dr. José Luis Gómez
-  photo: Jose.png
+  photo: jose.jpg
   info: Research Scientist / Group Leader
   email: jlgomez@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&format=SHORT&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=%3Dauthor%3A(%22gomez%2C%20j%20l%22%20OR%20%22gomez%2C%20jose%20l%22%20OR%20%22gomez%2C%20jose%20luis%22)&sort=score%20desc%2C%20bibcode%20desc&unprocessed_parameter=adsobj_query&unprocessed_parameter=qform
@@ -7,7 +7,7 @@
   education1:
 
 - name: Dr. Antonio María Alberdi
-  photo: AAlberdi.png
+  photo: antxon.jpg
   info: Director at IAA
   email: antxon@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FAlberdi%2C%20A%2FAlberdi%2C%20A%22%20OR%20author_facet_hier%3A%221%2FAlberdi%2C%20A%2FAlberdi%2C%20Antxon%22%20OR%20author_facet_hier%3A%221%2FAlberdi%2C%20A%2FAlberdi%2C%20Antonio%22)&p_=0&q=author%3A%22Antonio%20Mar%C3%ADa%20Alberdi%22&sort=date%20desc%2C%20bibcode%20desc
@@ -15,7 +15,7 @@
   education1: 
 
 - name: Dr. Guang-Yao Zhao
-  photo: 20201210_204007.jpg
+  photo: guangyao.jpg
   info: Postdoctoral fellow
   email: gyzhao@iaa.es
   publications: https://orcid.org/0000-0002-4417-1659
@@ -23,7 +23,7 @@
   education1: Joined in December 2019
 
 - name: Dr. Rocco Lico
-  photo: Rocco_Lico_pic.jpeg
+  photo: rocco.jpg
   info: Postdoctoral fellow
   email: rlico@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FLico%2C%20R%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FLico%2C%20R%22)&q=rocco%20lico&sort=date%20desc%2C%20bibcode%20desc&p_=0
@@ -31,7 +31,7 @@
   education1: Joined in July 2020
  
 - name: Dr. Efthalia Traianou
-  photo: traianou_thalia.jpg
+  photo: thalia.jpg
   info: Postdoctoral fellow
   email: traianou@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FTraianou%2C%20E%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FTraianou%2C%20E%22)&q=Efthalia%20Traianou&sort=date%20desc%2C%20bibcode%20desc&p_=0
@@ -39,7 +39,7 @@
   education1: Joined in May 2021
   
 - name: Dr. Ilje Cho
-  photo: profile.JPG
+  photo: ilje.jpg
   info:  Postdoctoral fellow
   email: icho@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20I%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20Ilje%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20I%22%20OR%20author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20Ilje%22)&q=author%3A%22cho%2C%20ilje%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
@@ -47,7 +47,7 @@
   education1: Joined in June 2021
 
 - name: Antonio Fuentes
-  photo: Fuentes_Antonio.png
+  photo: antonio.jpg
   info: PhD Student
   email: afuentes@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20Antonio%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20A%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20Antonio%22%20OR%20author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20A%22)&q=antonio%20fuentes&sort=date%20desc%2C%20bibcode%20desc&p_=0
@@ -55,7 +55,7 @@
   education1: Joined in August 2018
 
 - name: Teresa Toscano
-  photo: teresa.jpeg
+  photo: teresa.jpg
   info: PhD Student
   email: ttoscano@iaa.es
   publications:
@@ -63,7 +63,7 @@
   education1: Joined in September 2021
   
 - name: Rohan Dahale
-  photo: rohan.jpeg
+  photo: rohan.jpg
   info: Master Student
   email: rdahale@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FDahale%2C%20R%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FDahale%2C%20R%22)&q=%20author%3A%22dahale%2C%20rohan%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
