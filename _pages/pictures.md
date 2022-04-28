@@ -28,7 +28,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="150%" style="float: left" />
 </div>
 <p>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.title }}/>
+<{{ pic.title }}>
 </p>
 {% assign number_printed = number_printed | plus: 1 %}
 {% if even_odd > 2 %}
