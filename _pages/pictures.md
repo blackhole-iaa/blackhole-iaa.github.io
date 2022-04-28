@@ -26,11 +26,11 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 {% endif %}
 <div class="col-sm-15 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="150%" style="float: left" />
-</div>
+
 <{{ pic.title }}>
 {% assign number_printed = number_printed | plus: 1 %}
 {% if even_odd > 2 %}
-
+</div>
 {% endif %}
 {% endfor %}
 {% assign even_odd = number_printed | modulo: 4 %}
