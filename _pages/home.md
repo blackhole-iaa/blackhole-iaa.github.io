@@ -17,25 +17,12 @@ Our group is part of the Instituto de Astrofísica de Andalucía (IAA-CSIC), in 
 </p>
 
 <p align="justify">
-Our group is composed of:
-
-<ul>
- <li>Staff members: José Luis Gómez and Antxon Alberdi
- <li> Posdocs: Guang-Yao Zhao, Rocco Lico, Thalia Traianou and Ilje Cho. 
- <li> PhD students: Antonio Fuentes and Teresa Toscano.
- <li> New members: Rohan Dahale and Marianna Foschi.
-</ul>
+Our research group has become one of the most relevant in the EHT, and is playing a key role in the analysis of the EHT observations of SgrA*, the supermassive black hole at the center of the Milky Way, for which the entire scientific community  has big expectations and whose results will be published soon.
 </p>
-
-<br>
 
 <div class="col-sm-15 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/home.png" class="img-responsive" width="150%" style="float: left" />
 </div>
 
-<br>
 
-<p align="justify">
-Nowadays, our research group has become one of the most relevant in the EHT, and is playing a key role in the analysis of the EHT observations of SgrA*, the supermassive black hole at the center of the Milky Way, for which the entire scientific community  has big expectations and whose results will be published soon.
-</p>
 
