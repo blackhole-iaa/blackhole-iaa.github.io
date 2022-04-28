@@ -12,6 +12,7 @@ permalink: /
 
 <p align="left">
 First polarized image of the black hole at the centre of the M87 galaxy. [March 2021]
+</p>
 
 <p align="justify">
 
