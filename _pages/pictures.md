@@ -30,7 +30,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 <{{ pic.title }}>
 {% assign number_printed = number_printed | plus: 1 %}
 {% if even_odd > 2 %}
-</div>
+
 {% endif %}
 {% endfor %}
 {% assign even_odd = number_printed | modulo: 4 %}
