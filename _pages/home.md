@@ -24,5 +24,10 @@ Our research group has become one of the most relevant in the EHT, and is playin
 <img src="{{ site.url }}{{ site.baseurl }}/images/home.png" class="img-responsive" width="150%" style="float: left" />
 </div>
 
+</br>
+<p align="right">
+First polarized image of the black hole at the centre of the M87 galaxy. [March 2021]
+</br>
+
 
 
