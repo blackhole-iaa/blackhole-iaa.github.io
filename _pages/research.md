@@ -11,8 +11,8 @@ permalink: /research/
 <p align="justify">
 
 The general research interests of our group lay in an ample variety of subjects, focusing on blazar jets and black hole studies at the highest angular resolutions through mm and Space very long baseline interferometric (VLBI) observations, MWL and RMHD simulations. 
-For instance, our group is actively a part of different collaborations, such as the Event Horizon Telescope (EHT), working with orbiting antennas, such as the space VLBI mission RadioAstron, and also with long-term monitoring programs such as MOJAVE and VLBA-BU-BLAZAR.
-</p>
+For instance, our group is actively a part of different collaborations, such as the Event Horizon Telescope (EHT), working with orbiting antennas, such as the space VLBI mission RadioAstron, and also with long-term monitoring programs such as MOJAVE and VLBA-BU-BLAZAR.<br/>
+</p> 
 
 ### EHT collaboration
 
