@@ -14,11 +14,9 @@ The general research interests of our group lay in an ample variety of subjects,
 For instance, our group is actively a part of different collaborations, such as the Event Horizon Telescope (EHT), working with orbiting antennas, such as the space VLBI mission RadioAstron, and also with long-term monitoring programs such as MOJAVE and VLBA-BU-BLAZAR.
 </p>
 
-#### EHT collaboration
+### EHT collaboration
 
-
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ehtarray.jpeg){: style="width: 280px; float: left; margin: 0px  15px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ehtarray.jpeg){: style="width: 290px; float: left; margin: 0px  15px"}
 
 <p align="justify">
 On April 10th 2019 the [Event Horizon Telescope (EHT)](https://eventhorizontelescope.org/) Collaboration revealed the first image of a black hole, which shows an asymmetric bright emission ring that encompasses a central depression in brightness, known as the “shadow” of the black hole, produced by the photon capture within the event horizon of the black hole. Overall, the size, circularity, asymmetry, and brightness contrast of the observed image are consistent with the shadow of a Kerr black hole as predicted by GR and provide one the strongest evidence to date of the existence of supermassive black holes in the nuclei of galaxies. With this image the EHT has opened a completely new window to study gravity, bringing into focus not only the persistent strong-field gravity features predicted by general relativity, but also the fine details of black hole accretion and relativistic jet launching.
