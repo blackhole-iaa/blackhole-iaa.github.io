@@ -11,7 +11,6 @@
   news2:
 
 
-
 - title: "Unravelling the Innermost Jet Structure of OJ 287 with the First GMVA+ALMA Observations"
   image: pol.png
   description: ""
@@ -19,8 +18,8 @@
   date: 27 April 2022 
   journal:  Accepted in The Astrophysical Journal 
   link:
-    url: 
-    display:
+    url: https://doi.org/10.48550/arXiv.2205.00554
+    display: arXiv:2205.00554 
   highlight: 0
   news2:
 
@@ -43,7 +42,7 @@
   description: ""
   date: 16 February 2022
   journal:  Astronomy & Astrophysics, Volume 658, L10
-  authors: Lico R., Casadio C., Jorstad S. G., Gómez J. L., Marscher A. P., Traianou E., Kim J.-Y., Zhao G.-Y., Fuentes A., Cho I.,  Krichbaum T. P., Hervet O., O'Brien S.,  Boccardi B., Myserlis I., Agudo I., Alberdi A., Weaver Z. R. and Zensus J. A.
+  authors: Lico R., et. al.
   link: 
     url: https://www.aanda.org/articles/aa/full_html/2022/02/aa42948-21/aa42948-21.html
     display: DOI- 10.1051/0004-6361/202142948
