@@ -37,7 +37,7 @@ Our research group has become one of the most relevant in the EHT, and played a 
 First image of Sagittarius A* the black hole at the centre of our galaxy Milky way. [May 2021] </em>
 </p>
 
-##VLBI Group at IAA in the News
+## VLBI Group at IAA in the News
 
 ### First Image of Sagittarius A*
 
@@ -47,7 +47,7 @@ First image of Sagittarius A* the black hole at the centre of our galaxy Milky w
 
 - Nature: [Black hole at the centre of our Galaxy imaged for the first time](https://www.nature.com/articles/d41586-022-01320-y)
 
-- El País: [Tomada la primera imagen de Sagitario A*, el agujero negro en el centro de nuestra galaxia](https://elpais.com/ciencia/2022-05-12/tomada-la-primera-imagen-de-sagitario-a-el-agujero-negro-en-el-centro-de-nuestra-galaxia.html) - *"It was like taking a picture of a child running at night.", Dr. Gómez.*
+- El País: [Tomada la primera imagen de Sagitario A*, el agujero negro en el centro de nuestra galaxia](https://elpais.com/ciencia/2022-05-12/tomada-la-primera-imagen-de-sagitario-a-el-agujero-negro-en-el-centro-de-nuestra-galaxia.html) 
 
 - EL MUNDO: [Captan la primera imagen del agujero negro de nuestra galaxia, Sagitario A*, probando su existencia](https://www.elmundo.es/ciencia-y-salud/ciencia/2022/05/12/627cf932e4d4d8a7728b45c1.html) 
 
