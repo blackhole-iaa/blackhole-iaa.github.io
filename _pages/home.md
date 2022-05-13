@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div class="col-sm-15 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/home.jpg" class="img-responsive" width="150%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/home.jpeg" class="img-responsive" width="150%" style="float: left" />
 </div>
 
 <p align="center">
@@ -26,10 +26,10 @@ Our group is part of the <a href="https://www.iaa.csic.es/">Instituto de Astrof√
 </p>
 
 <p align="justify">
-Our research group has become one of the most relevant in the EHT, and is playing a key role in the analysis of the EHT observations of SgrA*, the supermassive black hole at the center of the Milky Way, for which the entire scientific community  has big expectations and whose results will be published soon. 
+Our research group has become one of the most relevant in the EHT, and played a key role in the analysis and imaging of the EHT observations of SgrA*, the supermassive black hole at the center of the Milky Way. 
 </p>
 
-
-
-
+<div class="col-sm-15 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/homesgr.jpeg" class="img-responsive" width="150%" style="float: left" />
+</div>
 
