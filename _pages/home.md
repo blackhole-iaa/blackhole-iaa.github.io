@@ -37,7 +37,7 @@ Our research group has become one of the most relevant in the EHT, and played a 
 First image of Sagittarius A* the black hole at the centre of our galaxy Milky way. [May 2021] </em>
 </p>
 
-The image is a long-anticipated look at the massive object that sits at the very centre of our galaxy. Scientists had previously seen stars orbiting around something invisible, compact, and very massive at the centre of the Milky Way. This strongly suggested that this object — known as Sagittarius A* (Sgr A*, pronounced "sadge-ay-star") — is a black hole, and today’s image provides the first direct visual evidence of it.
+The image is a long-anticipated look at the massive object that sits at the very centre of our galaxy. Scientists had previously seen stars orbiting around something invisible, compact, and very massive at the centre of the Milky Way. This strongly suggested that this object — known as **Sagittarius A*** (Sgr A*, pronounced "sadge-ay-star") — is a black hole, and today’s image provides the **first direct visual evidence** of it.
 
 ## VLBI Group at IAA in the News
 ---
