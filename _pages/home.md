@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div class="col-sm-15 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/home.jpeg" class="img-responsive" width="150%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/home.jpg" class="img-responsive" width="150%" style="float: left" />
 </div>
 
 <p align="center">
