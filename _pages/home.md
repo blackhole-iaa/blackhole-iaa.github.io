@@ -34,7 +34,7 @@ Our research group has become one of the most relevant in the EHT, and played a 
 </div>
 <p align="center">
 <em>
-First image of Sagittarius A* the black hole at the centre of our galaxy Milky way. [May 2021] </em>
+First image of Sagittarius A* the black hole at the centre of our galaxy Milky way. [May 2022] </em>
 </p>
 
 The image is a long-anticipated look at the massive object that sits at the very centre of our galaxy. Scientists had previously seen stars orbiting around something invisible, compact, and very massive at the centre of the Milky Way. This strongly suggested that this object — known as **Sagittarius A*** (Sgr A*, pronounced "sadge-ay-star") — is a black hole, and today’s image provides the **first direct visual evidence** of it. The results are published in a special issue of [The Astrophysical Journal Letters.](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results){:target="_blank"}
@@ -50,7 +50,10 @@ The image is a long-anticipated look at the massive object that sits at the very
 
 - Nature: [Black hole at the centre of our Galaxy imaged for the first time](https://www.nature.com/articles/d41586-022-01320-y){:target="_blank"}
 
-- El País: [Tomada la primera imagen de Sagitario A*, el agujero negro en el centro de nuestra galaxia](https://elpais.com/ciencia/2022-05-12/tomada-la-primera-imagen-de-sagitario-a-el-agujero-negro-en-el-centro-de-nuestra-galaxia.html){:target="_blank"} 
+- El País: [Tomada la primera imagen de Sagitario A*, el agujero negro en el centro de nuestra galaxia](https://elpais.com/ciencia/2022-05-12/tomada-la-primera-imagen-de-sagitario-a-el-agujero-negro-en-el-centro-de-nuestra-galaxia.html){:target="_blank"}
+
+- El País in English: [Sagittarius A*: The inside story of how the Milky Way’s black hole was snapped](https://english.elpais.com/science-tech/2022-05-13/sagittarius-a-the-inside-story-of-how-our-black-hole-was-snapped.html){:target="_blank"}
+ 
 
 - EL MUNDO: [Captan la primera imagen del agujero negro de nuestra galaxia, Sagitario A*, probando su existencia](https://www.elmundo.es/ciencia-y-salud/ciencia/2022/05/12/627cf932e4d4d8a7728b45c1.html){:target="_blank"} 
 
@@ -59,7 +62,13 @@ The image is a long-anticipated look at the massive object that sits at the very
 
 - ABC: [Primera imagen de Sagitario A*, el agujero negro del centro de nuestra galaxia, en directo](https://www.abc.es/ciencia/abci-sigue-directo-anuncio-historico-sobre-agujero-negro-nuestra-galaxia-202205121133_directo.html){:target="_blank"}.
 
+- ABC: [Ya estamos observando otras galaxias, como una candidata a contener dos agujeros negros en su centro](https://www.abc.es/ciencia/abci-estamos-observando-otras-galaxias-como-candidata-contener-agujeros-negros-centro-202205160228_noticia.html){:target="_blank"}.
+
 - IDEAL: [Granada, clave en la primera fotografía del centro de nuestra galaxia](https://www.ideal.es/culturas/ciencia-salud/granada-clave-primera-20220512154107-nt.html){:target="_blank"} 
+
+- SER: [¿Qué nos dice la foto de Sagitario A*, el agujero negro del centro de nuestra galaxia? Hablamos con uno de los científicos españoles que ha participado en su obtención](https://cadenaser.com/nacional/2022/05/16/te-has-perdido-el-eclipse-lunar-el-video-que-te-permitira-disfrutar-en-todo-su-esplendor-de-un-evento-que-no-se-repetira-hasta-2025-cadena-ser/){:target="_blank"} 
+
+- AS USA: [Why is the Milky Way black hole called Sagittarius A*?](https://en.as.com/latest_news/why-is-the-milky-way-black-hole-called-sagittarius-a-n/){:target="_blank"} 
 
 - Cope: [La ciencia celebra una imagen histórica que cambia la concepción del Universo](https://www.cope.es/actualidad/noticias/ciencia-celebra-una-imagen-historica-que-cambia-concepcion-del-universo-20220512_2079647){:target="_blank"}
 
