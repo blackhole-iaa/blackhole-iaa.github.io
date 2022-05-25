@@ -44,7 +44,17 @@ The image is a long-anticipated look at the massive object that sits at the very
 
 ### First Image of Sagittarius A*
 
+- Ideal: [El granadino que nos llevó al centro de la galaxia](https://www.ideal.es/culturas/ciencia-salud/granadino-llevo-centro-galaxia-20220522175601-nt.html){:target="_blank"}
+
 - Press Conference at CSIC Headquarters: [Youtube Live](https://www.youtube.com/watch?v=plXqkkmcr8s){:target="_blank"}
+
+- CSIC Instagram: [Dr. Thalia Traianou comments on the first image of SgrA* and her contributions in the imaging.](https://www.instagram.com/p/Cd5pOFLt48M/){:target="_blank"}
+
+- CSIC Facebook: [Antonio Fuentes comments on the first image of SgrA* and his contributions in the imaging.](https://www.facebook.com/watch/?v=1197469030999762&ref=sharing){:target="_blank"}
+
+- CSIC LinkedIn: [Dr. Rocco Lico comments on the first image of SgrA* and his contributions to the calibration of data](https://www.linkedin.com/posts/csic_rocco-lico-investigador-del-iaa-csic-activity-6934894975830663168-7PC9?utm_source=linkedin_share&utm_medium=member_desktop_web){:target="_blank"}
+
+
 
 - CanalSur: [Andalucía, clave en la captación de la primera imagen del agujero negro de la Vía Láctea](https://www.canalsur.es/noticias/andaluc%C3%ADa/granada/andalucia-clave-en-la-captacion-de-la-primera-imagen-del-agujero-negro-de-la-via-lactea/1828828.html){:target="_blank"}
 
