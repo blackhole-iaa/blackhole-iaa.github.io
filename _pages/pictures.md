@@ -47,6 +47,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 <p> &nbsp; </p>
 
 
+<p align="center"> "Things are only impossible until they are not." Picture Credits: Ramón L. Pérez from Ideal Granada</p>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
