@@ -54,7 +54,7 @@ The image is a long-anticipated look at the massive object that sits at the very
 
 - CSIC LinkedIn: [Dr. Rocco Lico comments on the first image of SgrA* and his contributions to the calibration of data](https://www.linkedin.com/posts/csic_rocco-lico-investigador-del-iaa-csic-activity-6934894975830663168-7PC9?utm_source=linkedin_share&utm_medium=member_desktop_web){:target="_blank"}
 
-
+- CSIC Facebook: [Dr. Ilje Cho comments on the first image of SgrA* and his contributions to the imaging and its analysis.](https://fb.watch/dfFMNjKgBl/){:target="_blank"}
 
 - CanalSur: [Andalucía, clave en la captación de la primera imagen del agujero negro de la Vía Láctea](https://www.canalsur.es/noticias/andaluc%C3%ADa/granada/andalucia-clave-en-la-captacion-de-la-primera-imagen-del-agujero-negro-de-la-via-lactea/1828828.html){:target="_blank"}
 
