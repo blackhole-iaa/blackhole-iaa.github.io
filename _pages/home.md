@@ -6,13 +6,36 @@ sitemap: false
 permalink: /
 ---
 
-<div class="col-sm-15 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/home.jpg" class="img-responsive" width="150%" style="float: left" />
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/homesgr.jpg.jpeg" alt="Slide 2" />
+        </div>
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 
 <p align="center">
 <em>
-First polarized image of the black hole at the centre of the M87 galaxy. [March 2021] </em>
+[1] First polarized image of the black hole at the centre of the M87 galaxy. [2] First image of Sagittarius A* the black hole at the centre of our galaxy Milky way. </em>
 </p>
 
 <p align="justify">
@@ -29,15 +52,7 @@ Our group is part of the <a href="https://www.iaa.csic.es/">Instituto de Astrof�
 Our research group has become one of the most relevant in the EHT, and played a key role in the analysis and imaging of the EHT observations of SgrA*, the supermassive black hole at the center of the Milky Way. 
 </p>
 
-<div class="col-sm-15 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/homesgr.jpeg" class="img-responsive" width="150%" style="float: left" />
-</div>
-<p align="center">
-<em>
-First image of Sagittarius A* the black hole at the centre of our galaxy Milky way. [May 2022] </em>
-</p>
-
-The image is a long-anticipated look at the massive object that sits at the very centre of our galaxy. Scientists had previously seen stars orbiting around something invisible, compact, and very massive at the centre of the Milky Way. This strongly suggested that this object — known as **Sagittarius A*** (Sgr A*, pronounced "sadge-ay-star") — is a black hole, and today’s image provides the **first direct visual evidence** of it. The results are published in a special issue of [The Astrophysical Journal Letters.](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results){:target="_blank"}
+The SgrA* image is a long-anticipated look at the massive object that sits at the very centre of our galaxy. Scientists had previously seen stars orbiting around something invisible, compact, and very massive at the centre of the Milky Way. This strongly suggested that this object — known as **Sagittarius A*** (Sgr A*, pronounced "sadge-ay-star") — is a black hole, and today’s image provides the **first direct visual evidence** of it. The results are published in a special issue of [The Astrophysical Journal Letters.](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results){:target="_blank"}
 
 ## VLBI Group at IAA in the News
 ---
@@ -55,6 +70,8 @@ The image is a long-anticipated look at the massive object that sits at the very
 - CSIC LinkedIn: [Dr. Rocco Lico comments on the first image of SgrA* and his contributions to the calibration of data](https://www.linkedin.com/posts/csic_rocco-lico-investigador-del-iaa-csic-activity-6934894975830663168-7PC9?utm_source=linkedin_share&utm_medium=member_desktop_web){:target="_blank"}
 
 - CSIC Facebook: [Dr. Ilje Cho comments on the first image of SgrA* and his contributions to the imaging and its analysis.](https://fb.watch/dfFMNjKgBl/){:target="_blank"}
+
+- CSIC LinkedIn: [Dr. Guang-Yao Zhao comments on the first image of SgrA* and his contributions to the scattering and imaging.](https://www.linkedin.com/posts/csic_guang-yao-zhao-cient%C3%ADfico-del-iaa-csic-activity-6935615601365168128-WNBB?utm_source=linkedin_share&utm_medium=android_app){:target="_blank"}
 
 - CanalSur: [Andalucía, clave en la captación de la primera imagen del agujero negro de la Vía Láctea](https://www.canalsur.es/noticias/andaluc%C3%ADa/granada/andalucia-clave-en-la-captacion-de-la-primera-imagen-del-agujero-negro-de-la-via-lactea/1828828.html){:target="_blank"}
 
