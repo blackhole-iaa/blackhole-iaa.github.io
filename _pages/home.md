@@ -63,6 +63,12 @@ The SgrA* image is a long-anticipated look at the massive object that sits at th
 
 - Press Conference at CSIC Headquarters: [Youtube Live](https://www.youtube.com/watch?v=plXqkkmcr8s){:target="_blank"}
 
+- RTVE: [Dr. José Luis Gómez live on RTVE with Lorenzo Milá](https://www.rtve.es/play/videos/objetivo-planeta/agujero-negro-nuestra-galaxia-26-05-22/6549638/?locale=ES){:target="_blank"}
+
+ 
+- Radio 3: [Dr. Rocco Lico and Anotonio Fuentes on Radio 3: *Fallo de sistema* with Santiago Bustamante
+](https://www.rtve.es/play/audios/fallo-de-sistema/)
+
 - CSIC Instagram: [Dr. Thalia Traianou comments on the first image of SgrA* and her contributions in the imaging.](https://www.instagram.com/p/Cd5pOFLt48M/){:target="_blank"}
 
 - CSIC Facebook: [Antonio Fuentes comments on the first image of SgrA* and his contributions in the imaging.](https://www.facebook.com/watch/?v=1197469030999762&ref=sharing){:target="_blank"}
