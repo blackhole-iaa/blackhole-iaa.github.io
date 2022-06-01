@@ -63,6 +63,8 @@ The SgrA* image is a long-anticipated look at the massive object that sits at th
 
 - Press Conference at CSIC Headquarters: [Youtube Live](https://www.youtube.com/watch?v=plXqkkmcr8s){:target="_blank"}
 
+- Newsletter by CSIC: [Captada la primera imagen histórica del agujero negro del centro de la galaxia](https://www.csic.es/es/actualidad-del-csic/captada-la-primera-imagen-historica-del-agujero-negro-del-centro-de-la-galaxia){:target="_blank"}
+
 - RTVE: [Dr. José Luis Gómez live on RTVE with Lorenzo Milá](https://www.rtve.es/play/videos/objetivo-planeta/agujero-negro-nuestra-galaxia-26-05-22/6549638/?locale=ES){:target="_blank"}
 
  
