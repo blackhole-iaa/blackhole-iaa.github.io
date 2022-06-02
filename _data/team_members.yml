@@ -54,7 +54,7 @@
 
 - name: Antonio Fuentes
   photo: antonio1.jpg
-  info: PhD Student
+  info: PhD Candidate
   email: afuentes@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20Antonio%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20A%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20Antonio%22%20OR%20author_facet_hier%3A%221%2FFuentes%2C%20A%2FFuentes%2C%20A%22)&q=antonio%20fuentes&sort=date%20desc%2C%20bibcode%20desc&p_=0
   website:
@@ -63,7 +63,7 @@
 
 - name: Teresa Toscano
   photo: teresa1.jpg
-  info: PhD Student
+  info: PhD Candidate
   email: ttoscano@iaa.es
   publications:
   website: https://ttoscanodomingo.github.io/
@@ -72,7 +72,7 @@
   
 - name: Rohan Dahale
   photo: rohan1.jpg
-  info: PhD Student
+  info: PhD Candidate
   email: rdahale@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FDahale%2C%20R%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FDahale%2C%20R%22)&q=%20author%3A%22dahale%2C%20rohan%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
   website: https://rohandahale.github.io/
@@ -81,7 +81,7 @@
   
 - name: Marianna Foschi
   photo: marianna1.jpg
-  info: PhD Student
+  info: PhD Candidate
   email: mfoschi@iaa.es
   publications:
   website: https://mariannafoschi.github.io/
