@@ -23,7 +23,8 @@ permalink: /people/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>
   Email: <{{ member.email }}></i> <br>
-  <a href="{{ member.publications }}">Publications </a>
+  <a href="{{ member.publications }}">Publications </a> <br>
+  <a href="{{ member.website }}">Personal Website </a>
   {% if member.number_educ == 1 %}
   {{ member.education1 }}
   {% endif %}

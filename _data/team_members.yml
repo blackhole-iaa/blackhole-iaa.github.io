@@ -19,6 +19,7 @@
   info: Postdoctoral fellow
   email: gyzhao@iaa.es
   publications: https://orcid.org/0000-0002-4417-1659
+  website: https://gyzhao060.github.io/
   number_educ: 1
   education1: Joined in December 2019
 
@@ -27,6 +28,7 @@
   info: Postdoctoral fellow
   email: rlico@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FLico%2C%20R%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FLico%2C%20R%22)&q=rocco%20lico&sort=date%20desc%2C%20bibcode%20desc&p_=0
+  website: https://roccolico.github.io/
   number_educ: 1
   education1: Joined in July 2020
  
@@ -35,6 +37,7 @@
   info: Postdoctoral fellow
   email: traianou@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FTraianou%2C%20E%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FTraianou%2C%20E%22)&q=Efthalia%20Traianou&sort=date%20desc%2C%20bibcode%20desc&p_=0
+  website: https://thaliatraianou.github.io/
   number_educ: 1
   education1: Joined in May 2021
   
@@ -43,6 +46,7 @@
   info:  Postdoctoral fellow
   email: icho@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=OR&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20I%22&filter_author_facet_hier_fq_author=author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20Ilje%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20I%22%20OR%20author_facet_hier%3A%221%2FCho%2C%20I%2FCho%2C%20Ilje%22)&q=author%3A%22cho%2C%20ilje%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+  website: https://iljecho.github.io/
   number_educ: 1
   education1: Joined in June 2021
 
@@ -59,6 +63,7 @@
   info: PhD Student
   email: ttoscano@iaa.es
   publications:
+  website: https://ttoscanodomingo.github.io/
   number_educ: 1
   education1: Joined in September 2021
   
@@ -67,6 +72,7 @@
   info: PhD Student
   email: rdahale@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FDahale%2C%20R%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FDahale%2C%20R%22)&q=%20author%3A%22dahale%2C%20rohan%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
+  website: https://rohandahale.github.io/
   number_educ: 1
   education1: Joined in October 2021
   
@@ -75,5 +81,6 @@
   info: PhD Student
   email: mfoschi@iaa.es
   publications:
+  website: https://mariannafoschi.github.io/
   number_educ: 1
   education1: Joined in May 2022
