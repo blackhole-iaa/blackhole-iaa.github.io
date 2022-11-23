@@ -10,7 +10,7 @@ permalink: /opportunities
 
 We are looking for potential PhD applicants to work on novel imaging and dynamical imaging methods using mm-VBLI data to study black accretion and relativistic jets. If you are interested, please contact Dr. Gómez via email with the following information.
 
-- Subject of email "PhD Application: <your name>"
+- Subject of the email "PhD Application: your name"
 - CV
 - Cover Letter / Letter of Motivation
 - Bachelor and Master grades
