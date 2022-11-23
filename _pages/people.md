@@ -23,14 +23,14 @@ permalink: /people/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br>
   Email: <{{ member.email }}></i> <br>
-  <a href="{{ member.publications }}">Publications </a> <br>
-  <a href="{{ member.website }}">Personal Website </a>
+  <a href="{{ member.publications }}" target="_blank">Publications </a> <br>
+  <a href="{{ member.website }} " target="_blank">Personal Website </a>
   {% if member.number_educ == 1 %}
   {{ member.education1 }}
   {% endif %}
 
   <ul style="overflow: hidden">
-   
+
 
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
@@ -73,4 +73,3 @@ permalink: /people/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
