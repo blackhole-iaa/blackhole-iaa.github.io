@@ -8,11 +8,16 @@ permalink: /opportunities
 
 # Open positions
 
-Currently, there are no open positions.
+We are looking for potential PhD applicants to work on novel imaging and dynamical imaging methods using mm-VBLI data to study black accretion and relativistic jets. If you are interested, please contact Dr. Gómez via email with the following information.
+
+- Subject of email "PhD Application: <your name>"
+- CV
+- Cover Letter / Letter of Motivation
+- Bachelor and Master grades
 
 ### PhD Students
 
-If you’re interested in doing a PhD within the VLBI group at the IAA-CSIC and the EHT collaboration, working on imaging supermassive black holes and their relativistic jets, please get in touch with Dr. Gómez by email.
+If you’re interested in doing a PhD within the VLBI group at the IAA-CSIC and the EHT collaboration, working on imaging supermassive black holes and their relativistic jets, please send your CV, cover letter/letter of motivation to Dr. Gómez by email.
 
 Funding opportunities for PhD Scholarships:
 
@@ -23,9 +28,8 @@ Funding opportunities for PhD Scholarships:
 
 ### Master Students
 
-If you’re interested in doing an internship or writing your thesis within the VLBI group at the IAA-CSIC, please get in touch with Dr. Gómez by email.
+If you’re interested in doing an internship or writing your thesis within the VLBI group at the IAA-CSIC, please send your CV, cover letter/letter of motivation to Dr. Gómez by email.
 
 Funding opportunities for Master students:
 
 - [JAE Intro](https://jaeintro.csic.es/en/)
-
