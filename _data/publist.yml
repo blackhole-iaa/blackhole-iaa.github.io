@@ -1,123 +1,12 @@
-- title: "First Sagittarius A* Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole in the Center of the Milky Way"
+- title: "First Sagittarius A* Event Horizon Telescope Results"
   image: pol.png
   description: ""
   authors: The Event Horizon Telescope Collaboration
   date: 12 May 2022
   journal: The Astrophysical Journal Letters, Volume 930, Number 2
   link:
-    url: https://doi.org/10.3847/2041-8213/ac6674
-    display: DOI- 10.3847/2041-8213/ac6674
-  highlight: 0
-  news2:
-
-- title: "First Sagittarius A* Event Horizon Telescope Results. II. EHT and Multiwavelength Observations, Data Processing, and Calibration"
-  image: pol.png
-  description: ""
-  authors: The Event Horizon Telescope Collaboration
-  date: 12 May 2022
-  journal: The Astrophysical Journal Letters, Volume 930, Number 2
-  link:
-    url: https://doi.org/10.3847/2041-8213/ac6675
-    display: DOI- 10.3847/2041-8213/ac6675
-  highlight: 0
-  news2:
-
-- title: "First Sagittarius A* Event Horizon Telescope Results. III. Imaging of the Galactic Center Supermassive Black Hole"
-  image: pol.png
-  description: ""
-  authors: The Event Horizon Telescope Collaboration
-  date: 12 May 2022
-  journal: The Astrophysical Journal Letters, Volume 930, Number 2
-  link:
-    url: https://doi.org/10.3847/2041-8213/ac6429
-    display: DOI- 10.3847/2041-8213/ac6429
-  highlight: 0
-  news2:
-
-
-- title: "First Sagittarius A* Event Horizon Telescope Results. IV. Variability, Morphology, and Black Hole Mass"
-  image: pol.png
-  description: ""
-  authors: The Event Horizon Telescope Collaboration
-  date: 12 May 2022
-  journal: The Astrophysical Journal Letters, Volume 930, Number 2
-  link:
-    url: https://doi.org/10.3847/2041-8213/ac6736
-    display: DOI- 10.3847/2041-8213/ac6736
-  highlight: 0
-  news2:
-
-- title: "First Sagittarius A* Event Horizon Telescope Results. V. Testing Astrophysical Models of the Galactic Center Black Hole"
-  image: pol.png
-  description: ""
-  authors: The Event Horizon Telescope Collaboration
-  date: 12 May 2022
-  journal: The Astrophysical Journal Letters, Volume 930, Number 2
-  link:
-    url: https://doi.org/10.3847/2041-8213/ac6672
-    display: DOI- 10.3847/2041-8213/ac6672
-  highlight: 0
-  news2:
-
-
-- title: "First Sagittarius A* Event Horizon Telescope Results. VI. Testing the Black Hole Metric"
-  image: pol.png
-  description: ""
-  authors: The Event Horizon Telescope Collaboration
-  date: 12 May 2022
-  journal: The Astrophysical Journal Letters, Volume 930, Number 2
-  link:
-    url: https://doi.org/10.3847/2041-8213/ac6756
-    display: DOI- 10.3847/2041-8213/ac6756
-  highlight: 0
-  news2:
-
-- title: "Selective Dynamical Imaging of Interferometric Data"
-  image: pol.png
-  description: ""
-  authors: Joseph Farah et al. 
-  date: 12 May 2022
-  journal: The Astrophysical Journal Letters, Volume 930, Number 2
-  link:
-    url: https://doi.org/10.3847/2041-8213/ac6615
-    display: DOI- 10.3847/2041-8213/ac6615
-  highlight: 0
-  news2:
-
-- title: "Millimeter Light Curves of Sagittarius A* Observed during the 2017 Event Horizon Telescope Campaign"
-  image: pol.png
-  description: ""
-  authors: Maciek Wielgus et al.
-  date: 12 May 2022
-  journal: The Astrophysical Journal Letters, Volume 930, Number 2
-  link:
-    url: https://doi.org/10.3847/2041-8213/ac6428
-    display: DOI- 10.3847/2041-8213/ac6428
-  highlight: 0
-  news2:
-
-- title: "A Universal Power-law Prescription for Variability from Synthetic Images of Black Hole Accretion Flows"
-  image: pol.png
-  description: ""
-  authors: Boris Georgiev et al.
-  date: 12 May 2022
-  journal: The Astrophysical Journal Letters, Volume 930, Number 2
-  link:
-    url: https://doi.org/10.3847/2041-8213/ac65eb
-    display: DOI- 10.3847/2041-8213/ac65eb
-  highlight: 0
-  news2:
-
-
-- title: "Characterizing and Mitigating Intraday Variability: Reconstructing Source Structure in Accreting Black Holes with mm-VLBI"
-  image: pol.png
-  description: ""
-  authors: Avery E. Broderick et al.
-  date: 12 May 2022
-  journal: The Astrophysical Journal Letters, Volume 930, Number 2
-  link:
-    url: https://doi.org/10.3847/2041-8213/ac6584
-    display: 10.3847/2041-8213/ac6584
+    url: https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results
+    display: The Astrophysical Journal Letters Special Issue
   highlight: 0
   news2:
 
@@ -127,7 +16,7 @@
   description: ""
   authors: Fuentes A., et. al.
   date: 14 March 2022
-  journal: Submitted in Nature
+  journal: Submitted to Nature Astronomy
   link:
     url: https://doi.org/10.21203/rs.3.rs-1449452/v1
     display: Pre-print
@@ -139,11 +28,11 @@
   image: pol.png
   description: ""
   authors: Zhao G.-Y., et. al.
-  date: 27 April 2022 
-  journal:  Accepted in The Astrophysical Journal 
+  date: 16 June 2022
+  journal:  The Astrophysical Journal, Volume 932, Number 1
   link:
-    url: https://doi.org/10.48550/arXiv.2205.00554
-    display: arXiv:2205.00554 
+    url: https://doi.org/10.3847/1538-4357/ac6b9c
+    display: DOI- 10.3847/1538-4357/ac6b9c
   highlight: 0
   news2:
 
@@ -151,14 +40,14 @@
 - title: "The Intrinsic Structure of Sagittarius A* at 1.3 cm and 7 mm"
   image: pol.png
   description: ""
-  date: 20 February 2022 
+  date: 20 February 2022
   journal: The Astrophysical Journal, Volume 926, Issue 2
   authors: Cho I., Zhao G.-Y., et. al.
-  link: 
+  link:
     url: https://iopscience.iop.org/article/10.3847/1538-4357/ac4165
     display: DOI- 10.3847/1538-4357/ac4165
   highlight: 0
-  news2: 
+  news2:
 
 
 - title: "New jet feature in the parsec-scale jet of the blazar OJ 287 connected to the 2017 teraelectronvolt flaring activity"
@@ -167,11 +56,11 @@
   date: 16 February 2022
   journal:  Astronomy & Astrophysics, Volume 658, L10
   authors: Lico R., et. al.
-  link: 
+  link:
     url: https://www.aanda.org/articles/aa/full_html/2022/02/aa42948-21/aa42948-21.html
     display: DOI- 10.1051/0004-6361/202142948
   highlight: 0
-  news2: 
+  news2:
 
 
 - title: "Probing the Innermost Regions of AGN Jets and Their Magnetic Fields with RadioAstron. V. Space and Ground Millimeter-VLBI Imaging of OJ 287"
@@ -180,8 +69,8 @@
   date: 10 January 2022
   journal: The Astrophysical Journal, Volume 924, Issue 2
   authors: Gómez J. L.,  Traianou E., et. al.
-  link: 
+  link:
     url: https://iopscience.iop.org/article/10.3847/1538-4357/ac3bcc
     display: DOI- 10.3847/1538-4357/ac3bcc
   highlight: 0
-  news2: 
+  news2:
