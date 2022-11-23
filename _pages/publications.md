@@ -6,6 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
+Full list of publications of each group member can be found in the [People section](http://vlbigroup.iaa.es/people/).
 
 # Latest Publications
 

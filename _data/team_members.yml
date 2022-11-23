@@ -3,7 +3,7 @@
   info: Research Scientist / Group Leader
   email: jlgomez@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&format=SHORT&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=%3Dauthor%3A(%22gomez%2C%20j%20l%22%20OR%20%22gomez%2C%20jose%20l%22%20OR%20%22gomez%2C%20jose%20luis%22)&sort=score%20desc%2C%20bibcode%20desc&unprocessed_parameter=adsobj_query&unprocessed_parameter=qform
-  website: 
+  website: http://vlbigroup.iaa.es
   number_educ: 1
   education1:
 
@@ -12,9 +12,9 @@
   info: Director at IAA
   email: antxon@iaa.es
   publications: https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%221%2FAlberdi%2C%20A%2FAlberdi%2C%20A%22%20OR%20author_facet_hier%3A%221%2FAlberdi%2C%20A%2FAlberdi%2C%20Antxon%22%20OR%20author_facet_hier%3A%221%2FAlberdi%2C%20A%2FAlberdi%2C%20Antonio%22)&p_=0&q=author%3A%22Antonio%20Mar%C3%ADa%20Alberdi%22&sort=date%20desc%2C%20bibcode%20desc
-  website: 
+  website: https://www.iaa.csic.es/en
   number_educ: 1
-  education1: 
+  education1:
 
 - name: Dr. Guang-Yao Zhao
   photo: guangyao1.jpg
@@ -33,7 +33,7 @@
   website: https://roccolico.github.io/
   number_educ: 1
   education1: Joined in July 2020
- 
+
 - name: Dr. Efthalia Traianou
   photo: thalia1.jpg
   info: Postdoctoral fellow
@@ -42,7 +42,7 @@
   website: https://thaliatraianou.github.io/
   number_educ: 1
   education1: Joined in May 2021
-  
+
 - name: Dr. Ilje Cho
   photo: ilje1.jpg
   info:  Postdoctoral fellow
@@ -65,11 +65,11 @@
   photo: teresa1.jpg
   info: PhD Candidate
   email: ttoscano@iaa.es
-  publications:
+  publications: https://ui.adsabs.harvard.edu/search/q=author%3A%22Toscano%2C%20Teresa%22&sort=date%20desc%2C%20bibcode%20desc&p_=0
   website: https://ttoscanodomingo.github.io/
   number_educ: 1
   education1: Joined in September 2021
-  
+
 - name: Rohan Dahale
   photo: rohan1.jpg
   info: PhD Candidate
@@ -78,7 +78,7 @@
   website: https://rohandahale.github.io/
   number_educ: 1
   education1: Joined in October 2021
-  
+
 - name: Marianna Foschi
   photo: marianna1.jpg
   info: PhD Candidate
