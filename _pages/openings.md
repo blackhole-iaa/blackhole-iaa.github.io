@@ -8,6 +8,8 @@ permalink: /opportunities
 
 # Open positions
 
+**Application Deadline: 16 January 2023**
+
 We are looking for potential PhD applicants to work on novel imaging and dynamical imaging methods using mm-VBLI data to study black accretion and relativistic jets. If you are interested, please contact Dr. Gómez via email with the following information.
 
 - Subject of the email "PhD Application: your name"
