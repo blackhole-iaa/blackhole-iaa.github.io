@@ -8,15 +8,15 @@ permalink: /opportunities
 
 # Open positions
 
-1. **Post-doctoral position [Deadline: 30 November 2023]** 
+**1.Post-doctoral position [Deadline: 30 November 2023]** 
    
 We invite applications for a postdoctoral position focused on the Event Horizon Telescope projects, imaging of mm-VBLI data, black accretion and relativistic jets. If you are interested, please contact Dr. Gómez via email with the following information.
 - Subject of the email "PostDoc Application: your name"
 - CV
-- Research Statement
+- Cover Letter / Letter of Motivation
 
 
-2. **PhD postition [Deadline: 30 November 2023]**
+**2.PhD position [Deadline: 30 November 2023]**
 
 We are looking for potential PhD applicants to work on novel imaging and dynamical imaging methods using mm-VBLI data to study black accretion and relativistic jets. If you are interested, please contact Dr. Gómez via email with the following information.
 
