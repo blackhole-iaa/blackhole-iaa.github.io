@@ -10,7 +10,7 @@ permalink: /research/
 
 <p align="justify">
 
-Our research group is focused on the study of black hole accretion and relativistic jet formation through very long baseline interferometric  (VLBI) observations with mm-wave arrays, such as the <a href="https://eventhorizontelescope.org/">Event Horizon Telescope (EHT)</a>, and orbiting antennas, such as the space VLBI mission <a href="http://www.asc.rssi.ru/radioastron/"> RadioAstron</a>. In particular our research group is playing a key role in the scientific exploitation of the Event Horizon Telescope (EHT). </br>
+Our research group is focused on the study of black hole accretion and relativistic jet formation through very long baseline interferometric  (VLBI) observations with mm-wave arrays, such as the <a href="https://eventhorizontelescope.org/">Event Horizon Telescope (EHT)</a>, and orbiting antennas, such as the space VLBI mission <a href="http://www.asc.rssi.ru/radioastron/"> RadioAstron</a>. In particular our research group is playing a key role in the scientific exploitation of the Event Horizon Telescope (EHT).
 
 </p> 
 
