@@ -45,7 +45,7 @@ Our research group is focused on the study of black hole accretion and relativis
 
 
 <p align="justify">
-Our group is part of the <a href="https://www.iaa.csic.es/">Instituto de Astrofísica de Andalucía (IAA-CSIC)</a>, in Granada, Spain, currently an EHT affiliated institution, one of the most important investigation centers of the country also distinguished with the “Severo Ochoa Center of Excellence Award”.
+Our group is part of the <a href="https://www.iaa.csic.es/">Instituto de Astrofísica de Andalucía (IAA-CSIC)</a>, in Granada, Spain, currently an EHT affiliated institution, one of the most important investigation centers of the country also distinguished with the “Severo Ochoa Center of Excellence Award”. The group is led by Dr. José L. Gómez who is also the Vice Chair of the EHT Science Council and one of the three coordinators of the EHT Imaging Working Group (WG).
 </p>
 
 <p align="justify">

@@ -27,8 +27,6 @@ We are looking for potential PhD applicants to work on novel imaging and dynamic
 
 ### PhD Students
 
-If you’re interested in doing a PhD within the VLBI group at the IAA-CSIC and the EHT collaboration, working on imaging supermassive black holes and their relativistic jets, please send your CV, cover letter/letter of motivation to Dr. Gómez by email.
-
 Funding opportunities for PhD Scholarships:
 
 - [La Caixa Scholarship](https://fundacionlacaixa.org/en/inphinit-doctoral-fellowships-call)

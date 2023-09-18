@@ -10,8 +10,8 @@ permalink: /research/
 
 <p align="justify">
 
-The general research interests of our group lay in an ample variety of subjects, focusing on blazar jets and black hole studies at the highest angular resolutions through mm and Space very long baseline interferometric (VLBI) observations, MWL and RMHD simulations. 
-For instance, our group is actively a part of different collaborations, such as the Event Horizon Telescope (EHT), working with orbiting antennas, such as the space VLBI mission RadioAstron, and also with long-term monitoring programs such as MOJAVE and VLBA-BU-BLAZAR.<br/>
+Our research group is focused on the study of black hole accretion and relativistic jet formation through very long baseline interferometric  (VLBI) observations with mm-wave arrays, such as the <a href="https://eventhorizontelescope.org/">Event Horizon Telescope (EHT)</a>, and orbiting antennas, such as the space VLBI mission <a href="http://www.asc.rssi.ru/radioastron/"> RadioAstron</a>. In particular our research group is playing a key role in the scientific exploitation of the Event Horizon Telescope (EHT). </br>
+
 </p> 
 
 ### EHT collaboration
@@ -27,36 +27,12 @@ The Event Horizon Telescope has been awarded with the 2020 Breakthrough Prize in
 The EHT is an international collaboration capturing images of black holes using a virtual Earth-sized telescope. Within the contribution to the EHT, our group is mostly focussed on science data analysis of the EHT, with key contributions to the Imaging, Calibration, Scattering, Polarization, AGN, and MWL WGs. Related to this, we have participated in several important studies of M87* and Sgr A*.
 </p>
 
-
-<ul>
- <p align="justify"> <li>
-Dr. José Luis Gómez: Group leader, member of the EHT Science Council and one of the three coordinators of the EHT Imaging Working Group (WG),PI of the RadioAstron Key Science Program to study jet formation in AGN jets.</li>
- 
- <li>Dr. Guang-Yao Zhao: Coordinator of the Scattering WG, co-leader of the SMILI Imaging Team. Active member of the WGs of C&E, MWL and AGN.</li>
-
- <li>Dr. Rocco Lico: Co-leader of the antenna gains team. Active in the Imaging, Polarimetry, AGN and outreach working groups. ICT Officer & Management Team secretary.</li>
-
- <li>Dr. Ilje Cho: Active member of the WGs of C&E, Imaging, MWL, Scattering, AGN.</li>
-
- <li>Dr. Thalia Traianou: Active member of the WGs of Imaging, Polarization and AGN.</li>
-
- <li>Antonio Fuentes: Core member of the Imaging WG, co-lead of the eht-imaging and dynamic imaging teams, and co-lead of the Imaging Surveys sub-WG.</li>
-
- <li>Teresa Toscano: PhD student and latest collaborator of the EHT. Active member or the WG of Imaging, AGN and Polarimetry.</li>
-</p>
-</ul> 
-
-
 <p align="justify">
-Recently, our group has welcomed two new students, soon to become an official part of the team: Rohan Dahale and Marianna Foschi, who will soon be a part of the EHT group and continue to work on the ongoing and future projects.
+Our group is also involved in is [RadioAstron](http://www.asc.rssi.ru/radioastron/), an international space VLBI project led by the Astro Space Center of Lebedev Physical Institute in Moscow, Russia. Within this project we have studied the sources 3C279 and OJ287.
 </p>
 
 <p align="justify">
-Another project our group is involved in is [RadioAstron](http://www.asc.rssi.ru/radioastron/), an international space VLBI project led by the Astro Space Center of Lebedev Physical Institute in Moscow, Russia. Within this project we have studied the sources 3C279 and OJ287.
-</p>
-
-<p align="justify">
-In addition to this, we are also involved in programs such as the [MOJAVE](https://www.physics.purdue.edu/astro/MOJAVE/index.html) (Monitoring Of Jets in Active galactic nuclei with VLBA Experiments) program , a long-term program to monitor radio brightness and polarization variations in jets associated with active galaxies visible in the northern sky, as well as the POLAMI program, a long-term program to monitor the polarimetric properties (Stokes I, Q, U, and V) of a sample of around 40 bright active galactic nuclei (AGN) at 3.5 and 1.3 millimeter wavelengths with the IRAM 30m Telescope near Granada, Spain.
+In addition to this, we are also involved in programs such as the [MOJAVE](https://www.physics.purdue.edu/astro/MOJAVE/index.html) (Monitoring Of Jets in Active galactic nuclei with VLBA Experiments) program, a long-term program to monitor radio brightness and polarization variations in jets associated with active galaxies visible in the northern sky, as well as the POLAMI program, a long-term program to monitor the polarimetric properties (Stokes I, Q, U, and V) of a sample of around 40 bright active galactic nuclei (AGN) at 3.5 and 1.3 millimeter wavelengths with the IRAM 30m Telescope near Granada, Spain.
 </p>
 
 <!--
