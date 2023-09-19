@@ -1,4 +1,4 @@
-I"%<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+I"�%<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -9,10 +9,10 @@
     <!-- Items -->
     <div class="carousel-inner">
         <div class="item active">
-            <img src="/images/home.jpg" alt="Slide 1" />
+            <img src="http://localhost:4000/images/home.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="/images/homesgr.jpeg" alt="Slide 2" />
+            <img src="http://localhost:4000/images/homesgr.jpeg" alt="Slide 2" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -36,7 +36,7 @@ Our research group is focused on the study of black hole accretion and relativis
 </p>
 
 <p align="justify">
-Our group is part of the <a href="https://www.iaa.csic.es/">Instituto de Astrofísica de Andalucía (IAA-CSIC)</a>, in Granada, Spain, currently an EHT affiliated institution, one of the most important investigation centers of the country also distinguished with the “Severo Ochoa Center of Excellence Award”.
+Our group is part of the <a href="https://www.iaa.csic.es/">Instituto de Astrofísica de Andalucía (IAA-CSIC)</a>, in Granada, Spain, currently an EHT affiliated institution, one of the most important investigation centers of the country also distinguished with the “Severo Ochoa Center of Excellence Award”. The group is led by Dr. José L. Gómez who is also the Vice Chair of the EHT Science Council and one of the three coordinators of the EHT Imaging Working Group (WG).
 </p>
 
 <p align="justify">
