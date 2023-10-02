@@ -43,6 +43,15 @@
   number_educ: 1
   education1: Joined in August 2018
 
+- name: Kotaro Moriyama
+  photo: kotaro.png
+  info: Postdoctoral fellow
+  email: kotaromo@iaa.es
+  publications:
+  website: https://scholar.google.co.jp/citations?user=dhtvtPgAAAAJ&hl=ja
+  number_educ: 1
+  education1: Joined in October 2023
+
 - name: Teresa Toscano
   photo: teresa1.jpg
   info: PhD Candidate
@@ -69,3 +78,4 @@
   website: https://mariannafoschi.github.io/
   number_educ: 1
   education1: Joined in May 2022
+
