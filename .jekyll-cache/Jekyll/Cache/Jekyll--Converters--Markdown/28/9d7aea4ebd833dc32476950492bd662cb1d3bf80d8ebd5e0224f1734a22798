@@ -1,53 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Research</title>
-  <meta name="description" content="Research">
-  <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="/research/">
-<link rel="shortcut icon" type ="image/x-icon" href="/images/favicon.ico">
-
-
-
-</head>
-
-
-  <body>
-
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="/">VLBI Group</a>
-	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="/">Home</a></li>
-		<li><a href="/people">People</a></li>
-		<li><a href="/opportunities">Opportunities</a></li>
-		<li><a href="/publications">Publications</a></li>
-		<li><a href="/research">Research</a></li>
-		<li><a href="/pictures">Gallery</a></li>
-	  </ul>
-	</div>
-  </div>
-</div>
-
-
-    <div class="container-fluid">
-      <div class="row">
-        <div id="textid" class="col-sm-12">
-  <h1 id="research">Research</h1>
+I"�<h1 id="research">Research</h1>
 
 <p align="justify">
 
@@ -57,7 +8,7 @@ Our research group is focused on the study of black hole accretion and relativis
 
 <h3 id="eht-collaboration">EHT collaboration</h3>
 
-<p><img src="/images/respic/ehtarray.jpeg" alt="" style="width: 310px; float: left; margin: 0px  15px" /></p>
+<p><img src="http://localhost:4000/images/respic/ehtarray.jpeg" alt="" style="width: 310px; float: left; margin: 0px  15px" /></p>
 
 <p align="justify">
 On April 10th 2019 the <a href="https://eventhorizontelescope.org/">Event Horizon Telescope (EHT)</a> Collaboration revealed the first image of a black hole, which shows an asymmetric bright emission ring that encompasses a central depression in brightness, known as the “shadow” of the black hole, produced by the photon capture within the event horizon of the black hole. Overall, the size, circularity, asymmetry, and brightness contrast of the observed image are consistent with the shadow of a Kerr black hole as predicted by GR and provide one the strongest evidence to date of the existence of supermassive black holes in the nuclei of galaxies. With this image the EHT has opened a completely new window to study gravity, bringing into focus not only the persistent strong-field gravity features predicted by general relativity, but also the fine details of black hole accretion and relativistic jet launching.
@@ -71,39 +22,4 @@ The EHT is an international collaboration capturing images of black holes using 
 <p align="justify">
 Our group is also involved in is <a href="http://www.asc.rssi.ru/radioastron/">RadioAstron</a>, an international space VLBI project. Within this project we have studied the sources 3C279 and OJ287. In addition to this, we are also involved in VLBA programs such as the <a href="https://www.physics.purdue.edu/astro/MOJAVE/index.html">MOJAVE</a> (Monitoring Of Jets in Active galactic nuclei with VLBA Experiments) program at 15 GHz, <a href="https://www.bu.edu/blazars/BEAM-ME.html">BEAM-ME</a> (Blazars Entering the Astrophysical Multi-Messenger Era) program at 43 GHz, to undertand blazar jet physics through high resolution full polarization imaging. 
 </p>
-
-</div>
-
-      </div>
-    </div>
-
-    <div id="footer" class="panel">
-  <div class="panel-footer">
-	<div class="container-fluid">
-	  <div class="row">
-
-		<div class="col-sm-4">
-		  Contact:<br />
-		  Dr. José Luis Gómez <br />
-		  		E-mail: <a href="mailto:jlgomez@iaa.es">jlgomez@iaa.es</a> <br/>
-          Telephone: +34 958 230 604 <br/>
-          Instituto de Astrofísica de Andalucía <br/>
-          Granada, Spain (<a href="https://goo.gl/maps/MGoFVqxxLStVL5du9">Maps</a>)
-		</div>
-
-		<div class="col-sm-4">
-			<p align="right">&copy VLBI Group. Updated: 18-09-2023. <br/> <br/> <a href="https://twitter.com/iaavlbi">Twitter</a>  &nbsp;| &nbsp; <a href="https://www.instagram.com/iaavlbi/"> Instagram</a>  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  </p>        		           
-		</div>
-
-	  </div>
-	</div>
-  </div>
-</div>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="/js/bootstrap.min.js"></script>
-
-
-  </body>
-
-</html>
+:ET
