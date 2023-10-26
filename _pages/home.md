@@ -57,6 +57,13 @@ The SgrA* image is a long-anticipated look at the massive object that sits at th
 ## VLBI Group at IAA in the News
 ---
 
+### Filamentary structures unveiled by the RadioAstron image of 3C279
+
+- Press Release at IAA-CSIC: [Spanish](https://www.iaa.es/noticias/observaciones-con-interferometria-espacial-revelan-filamentos-helicoidales-en-el-interior){:target="_blank"}
+- Press Release at JIVE: [English](https://www.jive.eu/news/new-nature-astronomy-space-interferometry-reveals-helical-filaments-within-supermassive-black){:target="_blank"}
+- Press Release at MPIfR: [German](https://www.mpifr-bonn.mpg.de/pressemeldungen/2023/11){:target="_blank"}
+- Press Release at INAF: [Italian](https://www.media.inaf.it/2023/10/26/doppia-elica-3c279-vlbi/){:target="_blank"}
+
 ### First Image of Sagittarius A*
 
 - Ideal: [El granadino que nos llevó al centro de la galaxia](https://www.ideal.es/culturas/ciencia-salud/granadino-llevo-centro-galaxia-20220522175601-nt.html){:target="_blank"}
