@@ -21,10 +21,10 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/2018m87web.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/homesgr.jpeg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sgra.png" alt="Slide 2" />
         </div>
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/2017m87pol.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -58,8 +58,10 @@ Our research group has become one of the most relevant in the EHT, and played a 
 
 <p align="justify">
 Recenty, the Event Horizon Telescope (EHT) Collaboration, including memebers of our group, released new images of M87*, the supermassive black hole at the center of the galaxy Messier 87, using data from observations taken in April 2018. The paper published in [Astronomy & Astrophysics](https://doi.org/10.1051/0004-6361/202347932){:target="_blank"} presents new images from the 2018 data that reveal a familiar ring the same size as the one observed in 2017.  This bright ring surrounds a deep central depression, “the shadow of the black hole,” as predicted by general relativity.  Excitingly, the brightness peak of the ring has shifted by about 30<sup>&deg</sup> compared to the images from 2017, which is consistent with our theoretical understanding of variability from turbulent material around black holes.
+</p>
 
-“The new era of black hole direct imaging, spearheaded by the extensive analysis of the 2017 observations of M87* opened anew window that let us investigate black hole astrophysics and allow us to test the theory of general relativity at afundamental level”, says Dr. José L. Gómez. “Our theoretical models tell us that the state of the material around M87* should be uncorrelated between 2017 and 2018. Thus,repeated observations of M87* will help us place independent constraints on the plasma and magnetic field structure aroundthe black hole and help us disentangle the complicated astrophysics from the effects of general relativity”, adds Gómez.
+<p align="justify">
+“The new era of black hole direct imaging, spearheaded by the extensive analysis of the 2017 observations of M87* opened anew window that let us investigate black hole astrophysics and allow us to test the theory of general relativity at afundamental level”, says Dr. José L. Gómez. “Our theoretical models tell us that the state of the material around M87* should be uncorrelated between 2017 and 2018. Thus, repeated observations of M87* will help us place independent constraints on the plasma and magnetic field structure aroundthe black hole and help us disentangle the complicated astrophysics from the effects of general relativity”, adds Gómez.
 </p>
 
 ## Our Group in the News
