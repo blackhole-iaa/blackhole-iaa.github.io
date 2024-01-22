@@ -1,3 +1,29 @@
+- title: "The persistent shadow of the supermassive black hole of M87. I. Observations, calibration, imaging, and analysis"
+  image: pol.png
+  description: ""
+  authors: The Event Horizon Telescope Collaboration
+  date: 18 January 2024
+  journal: Astronomy & Astrophysics, Volume 681, A79
+  link:
+    url: https://www.aanda.org/articles/aa/full_html/2024/01/aa47932-23/aa47932-23.html
+    display: DOI- 10.1051/0004-6361/202347932
+  highlight: 0
+  news2:
+
+
+- title: "The filamentary internal structure of the 3C279 blazar jet"
+  image: pol.png
+  description: ""
+  authors: Fuentes A., et. al.
+  date: 26 October 2023
+  journal: Nature Astronomy, 7, 
+  link:
+    url: https://www.nature.com/articles/s41550-023-02105-7
+    display: DOI- 10.1038/s41550-023-02105-7
+  highlight: 0
+  news2:
+
+
 - title: "First Sagittarius A* Event Horizon Telescope Results"
   image: pol.png
   description: ""
@@ -7,19 +33,6 @@
   link:
     url: https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results
     display: The Astrophysical Journal Letters Special Issue
-  highlight: 0
-  news2:
-
-
-- title: "The filamentary internal structure of the 3C279 blazar jet"
-  image: pol.png
-  description: ""
-  authors: Fuentes A., et. al.
-  date: 14 March 2022
-  journal: Submitted to Nature Astronomy
-  link:
-    url: https://doi.org/10.21203/rs.3.rs-1449452/v1
-    display: Pre-print
   highlight: 0
   news2:
 
