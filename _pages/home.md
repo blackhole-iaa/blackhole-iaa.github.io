@@ -39,7 +39,8 @@ permalink: /
 
 <p align="center">
 <em>
-[1] First polarized image of the black hole at the centre of the M87 galaxy. [2] First image of Sagittarius A* the black hole at the centre of our galaxy Milky way. </em>
+[1] Comparision of the 2018 M87* and 2017 M87* images. [2] First image of Sagittarius A*. [3] First polarized image of M87*.
+</em>
 </p>
 
 <p align="justify">
@@ -57,7 +58,7 @@ Our research group has become one of the most relevant in the EHT, and played a 
 </p>
 
 <p align="justify">
-On 18th Jan 2024, the Event Horizon Telescope Collaboration, including members of our group, released new images of M87*, the supermassive black hole at the center of the galaxy Messier 87, using data from observations taken in April 2018. The paper published in [Astronomy & Astrophysics](https://doi.org/10.1051/0004-6361/202347932){:target="_blank"} presents new images from the 2018 data that reveal a familiar ring the same size as the one observed in 2017.  This bright ring surrounds a deep central depression, “the shadow of the black hole,” as predicted by general relativity.  Excitingly, the brightness peak of the ring has shifted by about 30<sup>&deg;</sup> compared to the images from 2017, which is consistent with our theoretical understanding of variability from turbulent material around black holes.
+On 18th Jan 2024, the Event Horizon Telescope Collaboration, including members of our group, released new images of M87*, the supermassive black hole at the center of the galaxy Messier 87, using data from observations taken in April 2018. The paper published in [Astronomy & Astrophysics](https://doi.org/10.1051/0004-6361/202347932){:target="_blank"} presents new images from the 2018 data that reveal a familiar ring the same size as the one observed in 2017.  This bright ring surrounds a deep central depression, “the shadow of the black hole,” as predicted by general relativity.  Excitingly, the brightness peak of the ring has shifted by about 30&deg; compared to the images from 2017, which is consistent with our theoretical understanding of variability from turbulent material around black holes.
 </p>
 
 ## Our Group in the News
