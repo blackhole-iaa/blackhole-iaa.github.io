@@ -61,59 +61,27 @@ The SgrA* image is a long-anticipated look at the massive object that sits at th
 
 - Event Horizon Telescope Collaboration: 
   - [English](https://eventhorizontelescope.org/M87-one-year-later-proof-of-a-persistent-black-hole-shadow){:target="_blank"}
-- Instituto de Astrofísica de Andalucía (IAA-CSIC) (Spain): 
-  - [Spanish](https://www.iaa.csic.es/noticias/m87-ano-despues-persistente-prueba-sombra-agujero-negro){:target="_blank"}
-  - [English](https://www.iaa.csic.es/en/news/m87-one-year-later-proof-persistent-black-hole-shadow){:target="_blank"}
+- Instituto de Astrofísica de Andalucía (IAA-CSIC) (Spain): [Spanish](https://www.iaa.csic.es/noticias/m87-ano-despues-persistente-prueba-sombra-agujero-negro){:target="_blank"} | [English](https://www.iaa.csic.es/en/news/m87-one-year-later-proof-persistent-black-hole-shadow){:target="_blank"}
 - Consejo Superior de Investigaciones Científicas: [Spanish](https://www.csic.es/es/actualidad-del-csic/m87-un-ano-despues-la-persistente-prueba-de-la-sombra-de-un-agujero-negro){:target="_blank"}
-- Universitat de València (Spain):
-  - [Catalan](https://www.uv.es/uvweb/uv-noticies/ca/noticies/noves-imatges-forat-negre-m87-mostren-persistencia-seua-ombra-central-anell-llum-1285973304159/Novetat.html?id=1286356586793&plantilla=UV_Noticies/Page/TPGDetaillNews){:target="_blank"}
-- Atacama Large Millimeter Array - ALMA Observatory (Chile):
-  - [Spanish](https://www.almaobservatory.org/es/comunicados-de-prensa/m87-un-ano-despues-prueba-de-la-persistencia-de-la-sombra-de-un-agujero-negro/ ){:target="_blank"}
-  - [English](https://www.almaobservatory.org/en/press-releases/m87-one-year-later-proof-of-a-persistent-black-hole-shadow/){:target="_blank"}
-- Universidad de Concepción (Chile):
-  - [Spanish](https://noticias.udec.cl/m87-un-ano-despues-se-suman-datos-y-se-perfecciona-la-imagen-de-la-sombra-del-mitico-agujero-negro/ ){:target="_blank"}
-- Universidad Nacional Autónoma de México (UNAM) (México):
-  - [Spanish](https://www.irya.unam.mx/web/es/noticias/archivo/510-la-sombra-del-agujero-negro-m87-persiste-por-al-menos-un-ano){:target="_blank"}
-  - [English](https://www.irya.unam.mx/web/en/news/archive/511-m87-one-year-later-proof-of-a-persistent-black-hole-shadow){:target="_blank"}
-- National Radio Astronomy Observatory (USA):
-  - [English](https://public.nrao.edu/news/new-details-of-supermassive-black-holes-shadow-revealed/){:target="_blank"}
-- Center for Astrophysics | Harvard & Smithsonian (USA):
-  - [English](https://www.cfa.harvard.edu/news/m87-one-year-later-proof-persistent-black-hole-shadow ){:target="_blank"}
-- McGill University (Canada):
-  - [English](https://www.mcgill.ca/newsroom/channels/news/m87-one-year-later-proof-persistent-black-hole-shadow-354399){:target="_blank"}
-- Academia Sinica Institute of Astronomy and Astrophysics (Taiwan):
-  - [Chinese](https://press.asiaa.sinica.edu.tw/chinese/2401){:target="_blank"}
-  - [English](https://press.asiaa.sinica.edu.tw/ASIAA_TAIWAN_News/240118){:target="_blank"}
-- Shanghai Astronomical Observatory (China):
-  - [Chinese](https://shao.cas.cn/2020Ver/xwdt/kyjz/202401/t20240118_6957976.html){:target="_blank"}
-- National Astronomical Observatory of Japan (Japan):
-  - [Japanese](https://www.nao.ac.jp/news/science/2024/20240118-eht.html){:target="_blank"}
-  - [English](https://www.nao.ac.jp/en/news/science/2024/20240118-eht.html){:target="_blank"}
-- University of Tokyo (Japan):
-  - [Japanese](https://www.s.u-tokyo.ac.jp/ja/press/10177/){:target="_blank"}
-  - [English](https://www.s.u-tokyo.ac.jp/en/press/10177/){:target="_blank"}
-- Niigata University (Japan):
-  - [Japanese](https://www.niigata-u.ac.jp/news/2024/549740/){:target="_blank"}
-  - [English](https://www.niigata-u.ac.jp/en/news/15556/){:target="_blank"}
-- Max Planck Institute for Radio Astronomy (Germany):
-  - [German](https://www.mpifr-bonn.mpg.de/pressemeldungen/2024/){:target="_blank"}
-  - [English](https://www.mpifr-bonn.mpg.de/pressreleases/2024/1){:target="_blank"}
-- Universität of Würzburg (Germany):
-  - [German](https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/schattenm87?fbclid=IwAR035QbcVHfQIZtxfw9VySi-Mwf9ARbeOKLGmenR06TWSn9Dh7WVu8YTb8w){:target="_blank"}
-  - [English](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/shadowm87/?fbclid=IwAR2kHtS-S7CXx376HOPEjHJIjIJOzIhP2B6lrpYcTg929Wwq1X6tPSNJm_8){:target="_blank"}
-- Aalto University (Finland):
-  - [Finnish](https://www.aalto.fi/fi/uutiset/uudet-kuvat-mustasta-aukosta-tutkijat-vahvistivat-kuvassa-nakyvan-mustan-aukon-varjon){:target="_blank"}
-  - [English](https://www.aalto.fi/en/news/scientists-reveal-new-images-of-a-black-hole-proof-of-a-persistent-black-hole-shadow){:target="_blank"}
-- Italian National Institute for Astrophysics (INAF) (Italy):
-  - [Italian](https://www.media.inaf.it/2024/01/18/niente-di-nuovo-allorizzonte-degli-eventi-di-m87/?fbclid=IwAR2Rj1tRVDbiVEnZ2MO5tSn5sqrgtTr8OaIkKxaRuYMftlTsNWBh2HwugAc){:target="_blank"}
-- Istituto Nazionale di Fisica Nucleare - INFN (Italy):
-  - [Italian](https://home.infn.it/it/comunicati-stampa/6317-un-anno-dopo-la-prima-foto-di-un-buco-nero-eht-svela-nuove-immagini-di-m87){:target="_blank"}
-- Chalmers University of Technology (Sweden):
-  - [Swedish](https://www.chalmers.se/en/current/news/oso-the-famous-black-hole-in-m-87-one-year-later/?fbclid=IwAR27elu_FmkD8dFPtBef9Ru828GtQj4sNuhPtHor5OUPqw2PWo7uHKTweiE){:target="_blank"}
-  - [English](https://www.chalmers.se/en/current/news/oso-the-famous-black-hole-in-m-87-one-year-later/?fbclid=IwAR27elu_FmkD8dFPtBef9Ru828GtQj4sNuhPtHor5OUPqw2PWo7uHKTweiE){:target="_blank"}
-- University of Southern Denmark (Denmark):
-  - [Danish](https://www.sdu.dk/da/om_sdu/fakulteterne/naturvidenskab/nyheder-2024/new-image-of-m87-black-hole){:target="_blank"}
-  - [English](https://www.sdu.dk/en/om_sdu/fakulteterne/naturvidenskab/nyheder-2024/new-image-of-m87-black-hole){:target="_blank"}
+- Universitat de València (Spain): [Catalan](https://www.uv.es/uvweb/uv-noticies/ca/noticies/noves-imatges-forat-negre-m87-mostren-persistencia-seua-ombra-central-anell-llum-1285973304159/Novetat.html?id=1286356586793&plantilla=UV_Noticies/Page/TPGDetaillNews){:target="_blank"}
+- Atacama Large Millimeter Array - ALMA Observatory (Chile): [Spanish](https://www.almaobservatory.org/es/comunicados-de-prensa/m87-un-ano-despues-prueba-de-la-persistencia-de-la-sombra-de-un-agujero-negro/ ){:target="_blank"} | [English](https://www.almaobservatory.org/en/press-releases/m87-one-year-later-proof-of-a-persistent-black-hole-shadow/){:target="_blank"}
+- Universidad de Concepción (Chile): [Spanish](https://noticias.udec.cl/m87-un-ano-despues-se-suman-datos-y-se-perfecciona-la-imagen-de-la-sombra-del-mitico-agujero-negro/ ){:target="_blank"}
+- Universidad Nacional Autónoma de México (UNAM) (México): [Spanish](https://www.irya.unam.mx/web/es/noticias/archivo/510-la-sombra-del-agujero-negro-m87-persiste-por-al-menos-un-ano){:target="_blank"} | [English](https://www.irya.unam.mx/web/en/news/archive/511-m87-one-year-later-proof-of-a-persistent-black-hole-shadow){:target="_blank"}
+- National Radio Astronomy Observatory (USA): [English](https://public.nrao.edu/news/new-details-of-supermassive-black-holes-shadow-revealed/){:target="_blank"}
+- Center for Astrophysics | Harvard & Smithsonian (USA): [English](https://www.cfa.harvard.edu/news/m87-one-year-later-proof-persistent-black-hole-shadow ){:target="_blank"}
+- McGill University (Canada): [English](https://www.mcgill.ca/newsroom/channels/news/m87-one-year-later-proof-persistent-black-hole-shadow-354399){:target="_blank"}
+- Academia Sinica Institute of Astronomy and Astrophysics (Taiwan): [Chinese](https://press.asiaa.sinica.edu.tw/chinese/2401){:target="_blank"} | [English](https://press.asiaa.sinica.edu.tw/ASIAA_TAIWAN_News/240118){:target="_blank"}
+- Shanghai Astronomical Observatory (China): [Chinese](https://shao.cas.cn/2020Ver/xwdt/kyjz/202401/t20240118_6957976.html){:target="_blank"}
+- National Astronomical Observatory of Japan (Japan): [Japanese](https://www.nao.ac.jp/news/science/2024/20240118-eht.html){:target="_blank"} | [English](https://www.nao.ac.jp/en/news/science/2024/20240118-eht.html){:target="_blank"}
+- University of Tokyo (Japan): [Japanese](https://www.s.u-tokyo.ac.jp/ja/press/10177/){:target="_blank"} | [English](https://www.s.u-tokyo.ac.jp/en/press/10177/){:target="_blank"}
+- Niigata University (Japan): [Japanese](https://www.niigata-u.ac.jp/news/2024/549740/){:target="_blank"} | [English](https://www.niigata-u.ac.jp/en/news/15556/){:target="_blank"}
+- Max Planck Institute for Radio Astronomy (Germany): [German](https://www.mpifr-bonn.mpg.de/pressemeldungen/2024/){:target="_blank"} | [English](https://www.mpifr-bonn.mpg.de/pressreleases/2024/1){:target="_blank"}
+- Universität of Würzburg (Germany): [German](https://www.uni-wuerzburg.de/aktuelles/pressemitteilungen/single/news/schattenm87?fbclid=IwAR035QbcVHfQIZtxfw9VySi-Mwf9ARbeOKLGmenR06TWSn9Dh7WVu8YTb8w){:target="_blank"} | [English](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/shadowm87/?fbclid=IwAR2kHtS-S7CXx376HOPEjHJIjIJOzIhP2B6lrpYcTg929Wwq1X6tPSNJm_8){:target="_blank"}
+- Aalto University (Finland): [Finnish](https://www.aalto.fi/fi/uutiset/uudet-kuvat-mustasta-aukosta-tutkijat-vahvistivat-kuvassa-nakyvan-mustan-aukon-varjon){:target="_blank"} | [English](https://www.aalto.fi/en/news/scientists-reveal-new-images-of-a-black-hole-proof-of-a-persistent-black-hole-shadow){:target="_blank"}
+- Italian National Institute for Astrophysics (INAF) (Italy): [Italian](https://www.media.inaf.it/2024/01/18/niente-di-nuovo-allorizzonte-degli-eventi-di-m87/?fbclid=IwAR2Rj1tRVDbiVEnZ2MO5tSn5sqrgtTr8OaIkKxaRuYMftlTsNWBh2HwugAc){:target="_blank"}
+- Istituto Nazionale di Fisica Nucleare - INFN (Italy): [Italian](https://home.infn.it/it/comunicati-stampa/6317-un-anno-dopo-la-prima-foto-di-un-buco-nero-eht-svela-nuove-immagini-di-m87){:target="_blank"}
+- Chalmers University of Technology (Sweden): [Swedish](https://www.chalmers.se/en/current/news/oso-the-famous-black-hole-in-m-87-one-year-later/?fbclid=IwAR27elu_FmkD8dFPtBef9Ru828GtQj4sNuhPtHor5OUPqw2PWo7uHKTweiE){:target="_blank"} | [English](https://www.chalmers.se/en/current/news/oso-the-famous-black-hole-in-m-87-one-year-later/?fbclid=IwAR27elu_FmkD8dFPtBef9Ru828GtQj4sNuhPtHor5OUPqw2PWo7uHKTweiE){:target="_blank"}
+- University of Southern Denmark (Denmark): [Danish](https://www.sdu.dk/da/om_sdu/fakulteterne/naturvidenskab/nyheder-2024/new-image-of-m87-black-hole){:target="_blank"} | [English](https://www.sdu.dk/en/om_sdu/fakulteterne/naturvidenskab/nyheder-2024/new-image-of-m87-black-hole){:target="_blank"}
 
 ### Filamentary structures unveiled by the RadioAstron image of 3C279
 
