@@ -39,7 +39,7 @@ permalink: /
 
 <p align="left">
 <em>
-[1] Comparision of the 2018 M87* and 2017 M87* images. [2] First image of Sagittarius A*. [3] First polarized image of M87*.
+[1] Comparision of the 2018 M87* and 2017 M87* images. [2] First image of Sagittarius A*. <br> [3] First polarized image of M87*.
 </em>
 </p>
 
