@@ -57,7 +57,7 @@ The SgrA* image is a long-anticipated look at the massive object that sits at th
 ## Our Group in the News
 ---
 
-### Press releases for the paper on 2018 M87* EHT results:
+### Press releases for 2018 M87* EHT results:
 
 - Event Horizon Telescope Collaboration: [English](https://eventhorizontelescope.org/M87-one-year-later-proof-of-a-persistent-black-hole-shadow){:target="_blank"}
 - Instituto de Astrofísica de Andalucía (IAA-CSIC) (Spain): [Spanish](https://www.iaa.csic.es/noticias/m87-ano-despues-persistente-prueba-sombra-agujero-negro){:target="_blank"} -- [English](https://www.iaa.csic.es/en/news/m87-one-year-later-proof-persistent-black-hole-shadow){:target="_blank"}
@@ -92,53 +92,28 @@ The SgrA* image is a long-anticipated look at the massive object that sits at th
 ### First Image of Sagittarius A*
 
 - Ideal: [El granadino que nos llevó al centro de la galaxia](https://www.ideal.es/culturas/ciencia-salud/granadino-llevo-centro-galaxia-20220522175601-nt.html){:target="_blank"}
-
 - Press Conference at CSIC Headquarters: [Youtube Live](https://www.youtube.com/watch?v=plXqkkmcr8s){:target="_blank"}
-
 - Newsletter by CSIC: [Captada la primera imagen histórica del agujero negro del centro de la galaxia](https://www.csic.es/es/actualidad-del-csic/captada-la-primera-imagen-historica-del-agujero-negro-del-centro-de-la-galaxia){:target="_blank"}
-
 - RTVE: [Dr. José Luis Gómez live on RTVE with Lorenzo Milá](https://www.rtve.es/play/videos/objetivo-planeta/agujero-negro-nuestra-galaxia-26-05-22/6549638/?locale=ES){:target="_blank"}
-
- 
 - Radio 3: [Dr. Rocco Lico and Anotonio Fuentes on Radio 3: *Fallo de sistema* with Santiago Bustamante
 ](https://www.rtve.es/play/audios/fallo-de-sistema/)
-
 - CSIC Instagram: [Dr. Thalia Traianou comments on the first image of SgrA* and her contributions in the imaging.](https://www.instagram.com/p/Cd5pOFLt48M/){:target="_blank"}
-
 - CSIC Facebook: [Antonio Fuentes comments on the first image of SgrA* and his contributions in the imaging.](https://www.facebook.com/watch/?v=1197469030999762&ref=sharing){:target="_blank"}
-
 - CSIC LinkedIn: [Dr. Rocco Lico comments on the first image of SgrA* and his contributions to the calibration of data](https://www.linkedin.com/posts/csic_rocco-lico-investigador-del-iaa-csic-activity-6934894975830663168-7PC9?utm_source=linkedin_share&utm_medium=member_desktop_web){:target="_blank"}
-
 - CSIC Facebook: [Dr. Ilje Cho comments on the first image of SgrA* and his contributions to the imaging and its analysis.](https://fb.watch/dfFMNjKgBl/){:target="_blank"}
-
 - CSIC LinkedIn: [Dr. Guang-Yao Zhao comments on the first image of SgrA* and his contributions to the scattering and imaging.](https://www.linkedin.com/posts/csic_guang-yao-zhao-cient%C3%ADfico-del-iaa-csic-activity-6935615601365168128-WNBB?utm_source=linkedin_share&utm_medium=android_app){:target="_blank"}
-
 - CanalSur: [Andalucía, clave en la captación de la primera imagen del agujero negro de la Vía Láctea](https://www.canalsur.es/noticias/andaluc%C3%ADa/granada/andalucia-clave-en-la-captacion-de-la-primera-imagen-del-agujero-negro-de-la-via-lactea/1828828.html){:target="_blank"}
-
 - Nature: [Black hole at the centre of our Galaxy imaged for the first time](https://www.nature.com/articles/d41586-022-01320-y){:target="_blank"}
-
 - El País: [Tomada la primera imagen de Sagitario A*, el agujero negro en el centro de nuestra galaxia](https://elpais.com/ciencia/2022-05-12/tomada-la-primera-imagen-de-sagitario-a-el-agujero-negro-en-el-centro-de-nuestra-galaxia.html){:target="_blank"}
-
 - El País in English: [Sagittarius A*: The inside story of how the Milky Way’s black hole was snapped](https://english.elpais.com/science-tech/2022-05-13/sagittarius-a-the-inside-story-of-how-our-black-hole-was-snapped.html){:target="_blank"}
- 
-
 - EL MUNDO: [Captan la primera imagen del agujero negro de nuestra galaxia, Sagitario A*, probando su existencia](https://www.elmundo.es/ciencia-y-salud/ciencia/2022/05/12/627cf932e4d4d8a7728b45c1.html){:target="_blank"} 
-
 - 20minutos: [Rocco Lico, astrofísico: "El agujero negro no es tan grande como para absorber la Vía Láctea."
 ](https://www.20minutos.es/noticia/4999416/0/rocco-lito-astrofisico-agujero-negro-no-tan-grande-absorver-via-lactea/){:target="_blank"}
-
 - ABC: [Primera imagen de Sagitario A*, el agujero negro del centro de nuestra galaxia, en directo](https://www.abc.es/ciencia/abci-sigue-directo-anuncio-historico-sobre-agujero-negro-nuestra-galaxia-202205121133_directo.html){:target="_blank"}.
-
 - ABC: [Ya estamos observando otras galaxias, como una candidata a contener dos agujeros negros en su centro](https://www.abc.es/ciencia/abci-estamos-observando-otras-galaxias-como-candidata-contener-agujeros-negros-centro-202205160228_noticia.html){:target="_blank"}.
-
 - IDEAL: [Granada, clave en la primera fotografía del centro de nuestra galaxia](https://www.ideal.es/culturas/ciencia-salud/granada-clave-primera-20220512154107-nt.html){:target="_blank"} 
-
 - SER: [¿Qué nos dice la foto de Sagitario A*, el agujero negro del centro de nuestra galaxia? Hablamos con uno de los científicos españoles que ha participado en su obtención](https://cadenaser.com/nacional/2022/05/16/te-has-perdido-el-eclipse-lunar-el-video-que-te-permitira-disfrutar-en-todo-su-esplendor-de-un-evento-que-no-se-repetira-hasta-2025-cadena-ser/){:target="_blank"} 
-
 - AS USA: [Why is the Milky Way black hole called Sagittarius A*?](https://en.as.com/latest_news/why-is-the-milky-way-black-hole-called-sagittarius-a-n/){:target="_blank"} 
-
 - Cope: [La ciencia celebra una imagen histórica que cambia la concepción del Universo](https://www.cope.es/actualidad/noticias/ciencia-celebra-una-imagen-historica-que-cambia-concepcion-del-universo-20220512_2079647){:target="_blank"}
-
 - El Confidential: [Imagen histórica del agujero negro de la Vía Láctea: primera foto real de Sagitario A*](https://www.elconfidencial.com/tecnologia/ciencia/2022-05-12/imagen-historica-del-agujero-negro-de-la-via-lactea-primera-foto-real-de-sagitario-a_3423494/){:target="_blank"}
-
 - Natiódigita: [Així és Sagitari A*, el forat negre del centre de la Via Làctia](https://www.naciodigital.cat/noticia/234274/aixi-sagitari-a-forat-negre-centre-via-lactia){:target="_blank"}
