@@ -12,15 +12,19 @@ permalink: /
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home.jpg" alt="Slide 1" />
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/2018m87web.png" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/homesgr.jpeg" alt="Slide 2" />
+        </div>
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home.jpg" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -49,15 +53,21 @@ Our group is part of the <a href="https://www.iaa.csic.es/">Instituto de Astrof�
 </p>
 
 <p align="justify">
-Our research group has become one of the most relevant in the EHT, and played a key role in the analysis and imaging of the EHT observations of SgrA*, the supermassive black hole at the center of the Milky Way. 
+Our research group has become one of the most relevant in the EHT, and played a key role in the analysis and imaging of the EHT observations of SgrA*, the supermassive black hole at the center of the Milky Way. The results are published in a special issue of [The Astrophysical Journal Letters.](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results){:target="_blank"}.
 </p>
 
-The SgrA* image is a long-anticipated look at the massive object that sits at the very centre of our galaxy. Scientists had previously seen stars orbiting around something invisible, compact, and very massive at the centre of the Milky Way. This strongly suggested that this object — known as **Sagittarius A*** (Sgr A*, pronounced "sadge-ay-star") — is a black hole, and today’s image provides the **first direct visual evidence** of it. The results are published in a special issue of [The Astrophysical Journal Letters.](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results){:target="_blank"}
+<p align="justify">
+Recenty, the Event Horizon Telescope (EHT) Collaboration, including memebers of our group, released new images of M87*, the supermassive black hole at the center of the galaxy Messier 87, using data from observations taken in April 2018. The paper published in [Astronomy & Astrophysics](https://doi.org/10.1051/0004-6361/202347932){:target="_blank"} presents new images from the 2018 data that reveal a familiar ring the same size as the one observed in 2017.  This bright ring surrounds a deep central depression, “the shadow of the black hole,” as predicted by general relativity.  Excitingly, the brightness peak of the ring has shifted by about 30<sup>&deg</sup> compared to the images from 2017, which is consistent with our theoretical understanding of variability from turbulent material around black holes.
+
+“The new era of black hole direct imaging, spearheaded by the extensive analysis of the 2017 observations of M87* opened anew window that let us investigate black hole astrophysics and allow us to test the theory of general relativity at afundamental level”, says Dr. José L. Gómez. “Our theoretical models tell us that the state of the material around M87* should be uncorrelated between 2017 and 2018. Thus,repeated observations of M87* will help us place independent constraints on the plasma and magnetic field structure aroundthe black hole and help us disentangle the complicated astrophysics from the effects of general relativity”, adds Gómez.
+</p>
 
 ## Our Group in the News
 ---
 
 ### Press releases for 2018 M87* EHT results:
+
+20+ institutional press releases, 50+ newpapers and magazines in 10+ different languagues, and 100+ social media posts to cover the outreach of this result from the EHT. Members of our group were featured in all the media coverage for this publication.
 
 - Event Horizon Telescope Collaboration: [English](https://eventhorizontelescope.org/M87-one-year-later-proof-of-a-persistent-black-hole-shadow){:target="_blank"}
 - Instituto de Astrofísica de Andalucía (IAA-CSIC) (Spain): [Spanish](https://www.iaa.csic.es/noticias/m87-ano-despues-persistente-prueba-sombra-agujero-negro){:target="_blank"} -- [English](https://www.iaa.csic.es/en/news/m87-one-year-later-proof-persistent-black-hole-shadow){:target="_blank"}
@@ -81,6 +91,12 @@ The SgrA* image is a long-anticipated look at the massive object that sits at th
 - Istituto Nazionale di Fisica Nucleare - INFN (Italy): [Italian](https://home.infn.it/it/comunicati-stampa/6317-un-anno-dopo-la-prima-foto-di-un-buco-nero-eht-svela-nuove-immagini-di-m87){:target="_blank"}
 - Chalmers University of Technology (Sweden): [Swedish](https://www.chalmers.se/en/current/news/oso-the-famous-black-hole-in-m-87-one-year-later/?fbclid=IwAR27elu_FmkD8dFPtBef9Ru828GtQj4sNuhPtHor5OUPqw2PWo7uHKTweiE){:target="_blank"} -- [English](https://www.chalmers.se/en/current/news/oso-the-famous-black-hole-in-m-87-one-year-later/?fbclid=IwAR27elu_FmkD8dFPtBef9Ru828GtQj4sNuhPtHor5OUPqw2PWo7uHKTweiE){:target="_blank"}
 - University of Southern Denmark (Denmark): [Danish](https://www.sdu.dk/da/om_sdu/fakulteterne/naturvidenskab/nyheder-2024/new-image-of-m87-black-hole){:target="_blank"} -- [English](https://www.sdu.dk/en/om_sdu/fakulteterne/naturvidenskab/nyheder-2024/new-image-of-m87-black-hole){:target="_blank"}
+- Science News, 18th Jan 2024: [English](https://www.sciencenews.org/article/supermassive-black-hole-photo-galaxy-eht){:target="_blank"}
+- Science Magazine, 18th Jan 2024: [English](https://www.science.org/content/article/nearby-galaxy-s-giant-black-hole-real-shadow-image-confirms){:target="_blank"}
+- New Scientist, 18th Jan 2024: [English](https://www.newscientist.com/article/2412935-new-fiery-doughnut-image-is-our-most-detailed-glimpse-of-a-black-hole/){:target="_blank"}
+- Granada Hoy, 18th Jan 2024: [Spanish](https://www.granadahoy.com/granada/Cientificos-Granada-confirman-existencia-agujero-negro-sombra-brillante_0_1867613473.html){:target="_blank"} 
+- El Independiente, 18th Jan 2024: [Spanish](http://www.elindependientedegranada.es/economia/instituto-astrofisica-andalucia-nuevo-protagonista-confirmacion-gran-hallazgo-astronomico){:target="_blank"} 
+- El Periodic, 18th Jan 2024: [Spanish](https://www.elperiodic.com/nuevas-imagenes-agujero-negro-muestran-persistencia-sombra-central-anillo_940895){:target="_blank"}
 
 ### Filamentary structures unveiled by the RadioAstron image of 3C279
 
