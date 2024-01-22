@@ -37,7 +37,7 @@ permalink: /
   </a>
 </div>
 
-<p align="center">
+<p align="left">
 <em>
 [1] Comparision of the 2018 M87* and 2017 M87* images. [2] First image of Sagittarius A*. [3] First polarized image of M87*.
 </em>
@@ -54,7 +54,7 @@ Our group is part of the <a href="https://www.iaa.csic.es/">Instituto de Astrof√
 </p>
 
 <p align="justify">
-Our research group has become one of the most relevant in the EHT, and played a key role in the analysis and imaging of the EHT observations of SgrA*, the supermassive black hole at the center of the Milky Way. The results are published in a special issue of [The Astrophysical Journal Letters.](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results){:target="_blank"}.
+Our research group has become one of the most relevant in the EHT, and played a key role in the analysis and imaging of the EHT observations of SgrA*, the supermassive black hole at the center of the Milky Way. The results are published in a special issue of [The Astrophysical Journal Letters](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results){:target="_blank"}.
 </p>
 
 <p align="justify">
