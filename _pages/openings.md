@@ -8,7 +8,7 @@ permalink: /opportunities
 
 # Open positions
 
-**Postdoctoral Position in VLBI Studies of Black Holes and Blazars at IAA-CSIC with a Focus on the Event Horizon Telescope** 
+### Postdoctoral Position in VLBI Studies of Black Holes and Blazars at IAA-CSIC with a Focus on the Event Horizon Telescope 
    
 <p>We are looking for a postdoc to join our team at the Instituto de Astrofísica de Andalucía (IAA-CSIC), funded by the European Union’s Horizon Europe research and innovation programme under grant agreement No. 101093934, and the Spanish Ministerio de Ciencia e Innovación through grant PID2022-180888NB-C21. The position will start as soon as the right candidate is found and will last for a period of 2+1 years. The successful applicant will develop VLBI dynamic imaging/modeling pipelines, primarily aimed at supporting the Event Horizon Telescope (EHT), while ensuring their applicability to other VLBI arrays. The selected applicant will also be involved in the deployment of the new ngEHT antenna in the Canary Islands, contributing expertise to both the scientific research and technical execution of this project.</p>
 
